@@ -1,0 +1,14 @@
+D:\C# PF\01.DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.exe
+D:\C# PF\01.DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.deps.json
+D:\C# PF\01.DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.runtimeconfig.json
+D:\C# PF\01.DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.pdb
+D:\C# PF\01.DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\01.DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.AssemblyInfo.cs
+D:\C# PF\01.DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\refint\01.ConvertMetersToKilometers.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.pdb
+D:\C# PF\01.DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.genruntimeconfig.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\ref\01.ConvertMetersToKilometers.dll

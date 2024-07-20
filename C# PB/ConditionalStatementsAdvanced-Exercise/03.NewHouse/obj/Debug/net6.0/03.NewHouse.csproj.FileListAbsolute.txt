@@ -1,0 +1,14 @@
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.exe
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.deps.json
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.runtimeconfig.json
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.dll
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.pdb
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.AssemblyInfoInputs.cache
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.AssemblyInfo.cs
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.csproj.CoreCompileInputs.cache
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.dll
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\refint\03.NewHouse.dll
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.pdb
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.genruntimeconfig.cache
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\ref\03.NewHouse.dll

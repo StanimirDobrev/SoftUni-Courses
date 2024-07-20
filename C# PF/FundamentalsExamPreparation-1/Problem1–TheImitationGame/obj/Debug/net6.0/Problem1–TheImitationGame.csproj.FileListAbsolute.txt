@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1–TheImitationGame\bin\Debug\net6.0\Problem1–TheImitationGame.exe
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1–TheImitationGame\bin\Debug\net6.0\Problem1–TheImitationGame.deps.json
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1–TheImitationGame\bin\Debug\net6.0\Problem1–TheImitationGame.runtimeconfig.json
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1–TheImitationGame\bin\Debug\net6.0\Problem1–TheImitationGame.dll
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1–TheImitationGame\bin\Debug\net6.0\Problem1–TheImitationGame.pdb
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1–TheImitationGame\obj\Debug\net6.0\Problem1–TheImitationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1–TheImitationGame\obj\Debug\net6.0\Problem1–TheImitationGame.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1–TheImitationGame\obj\Debug\net6.0\Problem1–TheImitationGame.AssemblyInfo.cs
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1–TheImitationGame\obj\Debug\net6.0\Problem1–TheImitationGame.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1–TheImitationGame\obj\Debug\net6.0\Problem1–TheImitationGame.dll
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1–TheImitationGame\obj\Debug\net6.0\refint\Problem1–TheImitationGame.dll
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1–TheImitationGame\obj\Debug\net6.0\Problem1–TheImitationGame.pdb
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1–TheImitationGame\obj\Debug\net6.0\Problem1–TheImitationGame.genruntimeconfig.cache
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1–TheImitationGame\obj\Debug\net6.0\ref\Problem1–TheImitationGame.dll

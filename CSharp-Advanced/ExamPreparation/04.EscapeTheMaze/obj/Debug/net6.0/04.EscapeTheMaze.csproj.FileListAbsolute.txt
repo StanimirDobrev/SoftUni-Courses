@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\04.EscapeTheMaze\bin\Debug\net6.0\04.EscapeTheMaze.exe
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\04.EscapeTheMaze\bin\Debug\net6.0\04.EscapeTheMaze.deps.json
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\04.EscapeTheMaze\bin\Debug\net6.0\04.EscapeTheMaze.runtimeconfig.json
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\04.EscapeTheMaze\bin\Debug\net6.0\04.EscapeTheMaze.dll
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\04.EscapeTheMaze\bin\Debug\net6.0\04.EscapeTheMaze.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\04.EscapeTheMaze\obj\Debug\net6.0\04.EscapeTheMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\04.EscapeTheMaze\obj\Debug\net6.0\04.EscapeTheMaze.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\04.EscapeTheMaze\obj\Debug\net6.0\04.EscapeTheMaze.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\04.EscapeTheMaze\obj\Debug\net6.0\04.EscapeTheMaze.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\04.EscapeTheMaze\obj\Debug\net6.0\04.EscapeTheMaze.dll
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\04.EscapeTheMaze\obj\Debug\net6.0\refint\04.EscapeTheMaze.dll
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\04.EscapeTheMaze\obj\Debug\net6.0\04.EscapeTheMaze.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\04.EscapeTheMaze\obj\Debug\net6.0\04.EscapeTheMaze.genruntimeconfig.cache
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\04.EscapeTheMaze\obj\Debug\net6.0\ref\04.EscapeTheMaze.dll

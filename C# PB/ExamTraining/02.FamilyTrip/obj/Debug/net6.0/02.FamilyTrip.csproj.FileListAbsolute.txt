@@ -1,0 +1,14 @@
+D:\C# PB\ExamTraining\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\ExamTraining\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.AssemblyInfoInputs.cache
+D:\C# PB\ExamTraining\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.AssemblyInfo.cs
+D:\C# PB\ExamTraining\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.csproj.CoreCompileInputs.cache
+D:\C# PB\ExamTraining\02.FamilyTrip\bin\Debug\net6.0\02.FamilyTrip.exe
+D:\C# PB\ExamTraining\02.FamilyTrip\bin\Debug\net6.0\02.FamilyTrip.deps.json
+D:\C# PB\ExamTraining\02.FamilyTrip\bin\Debug\net6.0\02.FamilyTrip.runtimeconfig.json
+D:\C# PB\ExamTraining\02.FamilyTrip\bin\Debug\net6.0\02.FamilyTrip.dll
+D:\C# PB\ExamTraining\02.FamilyTrip\bin\Debug\net6.0\02.FamilyTrip.pdb
+D:\C# PB\ExamTraining\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.dll
+D:\C# PB\ExamTraining\02.FamilyTrip\obj\Debug\net6.0\refint\02.FamilyTrip.dll
+D:\C# PB\ExamTraining\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.pdb
+D:\C# PB\ExamTraining\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.genruntimeconfig.cache
+D:\C# PB\ExamTraining\02.FamilyTrip\obj\Debug\net6.0\ref\02.FamilyTrip.dll

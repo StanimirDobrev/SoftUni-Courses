@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\02.ExerciseStacksAndQueues\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE546E3-064B-4A59-A65B-B264098B6F1F}|6.SongsQueue\\6.SongsQueue.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\02.exercisestacksandqueues\\6.songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE546E3-064B-4A59-A65B-B264098B6F1F}|6.SongsQueue\\6.SongsQueue.csproj|solutionrelative:6.songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBC2276-E2CD-4B8E-B5C4-C6F2F8694F24}|5.FashionBoutique\\5.FashionBoutique.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\02.exercisestacksandqueues\\5.fashionboutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBC2276-E2CD-4B8E-B5C4-C6F2F8694F24}|5.FashionBoutique\\5.FashionBoutique.csproj|solutionrelative:5.fashionboutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDDC423-A320-4384-9FF5-43B81970AFC0}|4.FastFood\\4.FastFood.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\02.exercisestacksandqueues\\4.fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDDC423-A320-4384-9FF5-43B81970AFC0}|4.FastFood\\4.FastFood.csproj|solutionrelative:4.fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D209695-4D71-4BE8-998E-17A91D96F08D}|3.Maximum\u0410ndMinimumElement\\3.Maximum\u0410ndMinimumElement.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\02.exercisestacksandqueues\\3.maximum\u0430ndminimumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D209695-4D71-4BE8-998E-17A91D96F08D}|3.Maximum\u0410ndMinimumElement\\3.Maximum\u0410ndMinimumElement.csproj|solutionrelative:3.maximum\u0430ndminimumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289F61AD-AA76-429F-A465-B69B61105AD6}|02.BasicQueueOperations\\02.BasicQueueOperations.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\02.exercisestacksandqueues\\02.basicqueueoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289F61AD-AA76-429F-A465-B69B61105AD6}|02.BasicQueueOperations\\02.BasicQueueOperations.csproj|solutionrelative:02.basicqueueoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA91177E-C6D2-4DB8-AD2D-70AA32867634}|01.BasicStackOperations\\01.BasicStackOperations.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\02.exercisestacksandqueues\\01.basicstackoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA91177E-C6D2-4DB8-AD2D-70AA32867634}|01.BasicStackOperations\\01.BasicStackOperations.csproj|solutionrelative:01.basicstackoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\02.ExerciseStacksAndQueues\\6.SongsQueue\\Program.cs",
+              "RelativeDocumentMoniker": "6.SongsQueue\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\02.ExerciseStacksAndQueues\\6.SongsQueue\\Program.cs",
+              "RelativeToolTip": "6.SongsQueue\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:17:17.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\02.ExerciseStacksAndQueues\\5.FashionBoutique\\Program.cs",
+              "RelativeDocumentMoniker": "5.FashionBoutique\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\02.ExerciseStacksAndQueues\\5.FashionBoutique\\Program.cs",
+              "RelativeToolTip": "5.FashionBoutique\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:54:35.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\02.ExerciseStacksAndQueues\\4.FastFood\\Program.cs",
+              "RelativeDocumentMoniker": "4.FastFood\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\02.ExerciseStacksAndQueues\\4.FastFood\\Program.cs",
+              "RelativeToolTip": "4.FastFood\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA4wCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:20:19.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\02.ExerciseStacksAndQueues\\3.Maximum\u0410ndMinimumElement\\Program.cs",
+              "RelativeDocumentMoniker": "3.Maximum\u0410ndMinimumElement\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\02.ExerciseStacksAndQueues\\3.Maximum\u0410ndMinimumElement\\Program.cs",
+              "RelativeToolTip": "3.Maximum\u0410ndMinimumElement\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwBIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:35:18.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\02.ExerciseStacksAndQueues\\02.BasicQueueOperations\\Program.cs",
+              "RelativeDocumentMoniker": "02.BasicQueueOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\02.ExerciseStacksAndQueues\\02.BasicQueueOperations\\Program.cs",
+              "RelativeToolTip": "02.BasicQueueOperations\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:00:53.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\02.ExerciseStacksAndQueues\\01.BasicStackOperations\\Program.cs",
+              "RelativeDocumentMoniker": "01.BasicStackOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\02.ExerciseStacksAndQueues\\01.BasicStackOperations\\Program.cs",
+              "RelativeToolTip": "01.BasicStackOperations\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwCkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:19:26.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

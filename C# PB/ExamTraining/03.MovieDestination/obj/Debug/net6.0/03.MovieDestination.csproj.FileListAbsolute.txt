@@ -1,0 +1,14 @@
+D:\C# PB\ExamTraining\03.MovieDestination\bin\Debug\net6.0\03.MovieDestination.exe
+D:\C# PB\ExamTraining\03.MovieDestination\bin\Debug\net6.0\03.MovieDestination.deps.json
+D:\C# PB\ExamTraining\03.MovieDestination\bin\Debug\net6.0\03.MovieDestination.runtimeconfig.json
+D:\C# PB\ExamTraining\03.MovieDestination\bin\Debug\net6.0\03.MovieDestination.dll
+D:\C# PB\ExamTraining\03.MovieDestination\bin\Debug\net6.0\03.MovieDestination.pdb
+D:\C# PB\ExamTraining\03.MovieDestination\obj\Debug\net6.0\03.MovieDestination.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\ExamTraining\03.MovieDestination\obj\Debug\net6.0\03.MovieDestination.AssemblyInfoInputs.cache
+D:\C# PB\ExamTraining\03.MovieDestination\obj\Debug\net6.0\03.MovieDestination.AssemblyInfo.cs
+D:\C# PB\ExamTraining\03.MovieDestination\obj\Debug\net6.0\03.MovieDestination.csproj.CoreCompileInputs.cache
+D:\C# PB\ExamTraining\03.MovieDestination\obj\Debug\net6.0\03.MovieDestination.dll
+D:\C# PB\ExamTraining\03.MovieDestination\obj\Debug\net6.0\refint\03.MovieDestination.dll
+D:\C# PB\ExamTraining\03.MovieDestination\obj\Debug\net6.0\03.MovieDestination.pdb
+D:\C# PB\ExamTraining\03.MovieDestination\obj\Debug\net6.0\03.MovieDestination.genruntimeconfig.cache
+D:\C# PB\ExamTraining\03.MovieDestination\obj\Debug\net6.0\ref\03.MovieDestination.dll

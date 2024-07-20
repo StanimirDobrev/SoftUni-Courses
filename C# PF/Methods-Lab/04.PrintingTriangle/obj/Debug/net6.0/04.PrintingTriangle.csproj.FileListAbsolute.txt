@@ -1,0 +1,14 @@
+D:\C# PF\Methods-Lab\04.PrintingTriangle\bin\Debug\net6.0\04.PrintingTriangle.exe
+D:\C# PF\Methods-Lab\04.PrintingTriangle\bin\Debug\net6.0\04.PrintingTriangle.deps.json
+D:\C# PF\Methods-Lab\04.PrintingTriangle\bin\Debug\net6.0\04.PrintingTriangle.runtimeconfig.json
+D:\C# PF\Methods-Lab\04.PrintingTriangle\bin\Debug\net6.0\04.PrintingTriangle.dll
+D:\C# PF\Methods-Lab\04.PrintingTriangle\bin\Debug\net6.0\04.PrintingTriangle.pdb
+D:\C# PF\Methods-Lab\04.PrintingTriangle\obj\Debug\net6.0\04.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\Methods-Lab\04.PrintingTriangle\obj\Debug\net6.0\04.PrintingTriangle.AssemblyInfoInputs.cache
+D:\C# PF\Methods-Lab\04.PrintingTriangle\obj\Debug\net6.0\04.PrintingTriangle.AssemblyInfo.cs
+D:\C# PF\Methods-Lab\04.PrintingTriangle\obj\Debug\net6.0\04.PrintingTriangle.csproj.CoreCompileInputs.cache
+D:\C# PF\Methods-Lab\04.PrintingTriangle\obj\Debug\net6.0\04.PrintingTriangle.dll
+D:\C# PF\Methods-Lab\04.PrintingTriangle\obj\Debug\net6.0\refint\04.PrintingTriangle.dll
+D:\C# PF\Methods-Lab\04.PrintingTriangle\obj\Debug\net6.0\04.PrintingTriangle.pdb
+D:\C# PF\Methods-Lab\04.PrintingTriangle\obj\Debug\net6.0\04.PrintingTriangle.genruntimeconfig.cache
+D:\C# PF\Methods-Lab\04.PrintingTriangle\obj\Debug\net6.0\ref\04.PrintingTriangle.dll

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06BAF745-6973-4E16-9DD6-08AA6F910B4E}|GenericScale\\GenericScale.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-lab\\genericscale\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BAF745-6973-4E16-9DD6-08AA6F910B4E}|GenericScale\\GenericScale.csproj|solutionrelative:genericscale\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BAF745-6973-4E16-9DD6-08AA6F910B4E}|GenericScale\\GenericScale.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-lab\\genericscale\\equalityscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BAF745-6973-4E16-9DD6-08AA6F910B4E}|GenericScale\\GenericScale.csproj|solutionrelative:genericscale\\equalityscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C233D78-A5C2-46BD-BEC0-1733B94233B0}|GenericArrayCreator\\GenericArrayCreator.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-lab\\genericarraycreator\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C233D78-A5C2-46BD-BEC0-1733B94233B0}|GenericArrayCreator\\GenericArrayCreator.csproj|solutionrelative:genericarraycreator\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C233D78-A5C2-46BD-BEC0-1733B94233B0}|GenericArrayCreator\\GenericArrayCreator.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-lab\\genericarraycreator\\arraycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C233D78-A5C2-46BD-BEC0-1733B94233B0}|GenericArrayCreator\\GenericArrayCreator.csproj|solutionrelative:genericarraycreator\\arraycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A80159-6A55-4CDD-85A3-C57A9BD083BC}|01.Box\\BoxOfT.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-lab\\01.box\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A80159-6A55-4CDD-85A3-C57A9BD083BC}|01.Box\\BoxOfT.csproj|solutionrelative:01.box\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A80159-6A55-4CDD-85A3-C57A9BD083BC}|01.Box\\BoxOfT.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-lab\\01.box\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A80159-6A55-4CDD-85A3-C57A9BD083BC}|01.Box\\BoxOfT.csproj|solutionrelative:01.box\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EqualityScale.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Lab\\GenericScale\\EqualityScale.cs",
+              "RelativeDocumentMoniker": "GenericScale\\EqualityScale.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Lab\\GenericScale\\EqualityScale.cs",
+              "RelativeToolTip": "GenericScale\\EqualityScale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:42:49.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Lab\\GenericScale\\StartUp.cs",
+              "RelativeDocumentMoniker": "GenericScale\\StartUp.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Lab\\GenericScale\\StartUp.cs",
+              "RelativeToolTip": "GenericScale\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:42:20.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayCreator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Lab\\GenericArrayCreator\\ArrayCreator.cs",
+              "RelativeDocumentMoniker": "GenericArrayCreator\\ArrayCreator.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Lab\\GenericArrayCreator\\ArrayCreator.cs",
+              "RelativeToolTip": "GenericArrayCreator\\ArrayCreator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:14:43.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Lab\\GenericArrayCreator\\StartUp.cs",
+              "RelativeDocumentMoniker": "GenericArrayCreator\\StartUp.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Lab\\GenericArrayCreator\\StartUp.cs",
+              "RelativeToolTip": "GenericArrayCreator\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:14:09.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Lab\\01.Box\\Box.cs",
+              "RelativeDocumentMoniker": "01.Box\\Box.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Lab\\01.Box\\Box.cs",
+              "RelativeToolTip": "01.Box\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:05:29.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Lab\\01.Box\\StartUp.cs",
+              "RelativeDocumentMoniker": "01.Box\\StartUp.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Lab\\01.Box\\StartUp.cs",
+              "RelativeToolTip": "01.Box\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:01:09.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

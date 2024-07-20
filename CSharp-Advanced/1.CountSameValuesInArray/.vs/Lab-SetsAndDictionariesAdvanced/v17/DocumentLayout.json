@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0416BE4F-8F32-4D07-9BEB-68FC6B29230A}|08.SoftUniParty\\08.SoftUniParty.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\1.countsamevaluesinarray\\08.softuniparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0416BE4F-8F32-4D07-9BEB-68FC6B29230A}|08.SoftUniParty\\08.SoftUniParty.csproj|solutionrelative:08.softuniparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F752F3D7-BE13-4255-B065-E15BFEB26FDA}|07.ParkingLot\\07.ParkingLot.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\1.countsamevaluesinarray\\07.parkinglot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F752F3D7-BE13-4255-B065-E15BFEB26FDA}|07.ParkingLot\\07.ParkingLot.csproj|solutionrelative:07.parkinglot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF89B3A-6C96-481F-A68F-8A00A75820BB}|06.RecordUniqueNames\\06.RecordUniqueNames.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\1.countsamevaluesinarray\\06.recorduniquenames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF89B3A-6C96-481F-A68F-8A00A75820BB}|06.RecordUniqueNames\\06.RecordUniqueNames.csproj|solutionrelative:06.recorduniquenames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4AA335-11D9-46B4-BB55-C26FA88F648B}|05.CitiesByContinentAndCountry\\05.CitiesByContinentAndCountry.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\1.countsamevaluesinarray\\05.citiesbycontinentandcountry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4AA335-11D9-46B4-BB55-C26FA88F648B}|05.CitiesByContinentAndCountry\\05.CitiesByContinentAndCountry.csproj|solutionrelative:05.citiesbycontinentandcountry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1FB573-71F1-4C64-8F67-391AADAA41D7}|04ProductShop\\04ProductShop.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\1.countsamevaluesinarray\\04productshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1FB573-71F1-4C64-8F67-391AADAA41D7}|04ProductShop\\04ProductShop.csproj|solutionrelative:04productshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3CED73-FDBC-4BB4-8505-47EABBED95FE}|3.Largest3Numbers\\3.Largest3Numbers.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\1.countsamevaluesinarray\\3.largest3numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3CED73-FDBC-4BB4-8505-47EABBED95FE}|3.Largest3Numbers\\3.Largest3Numbers.csproj|solutionrelative:3.largest3numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336957F6-0E96-42DE-8EB7-613A847ECB28}|02.AverageStudentGrades\\02.AverageStudentGrades.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\1.countsamevaluesinarray\\02.averagestudentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336957F6-0E96-42DE-8EB7-613A847ECB28}|02.AverageStudentGrades\\02.AverageStudentGrades.csproj|solutionrelative:02.averagestudentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97357855-ED01-465A-AF31-7807AB562F39}|ConsoleApp1\\1.CountSameValuesInArray.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\1.countsamevaluesinarray\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97357855-ED01-465A-AF31-7807AB562F39}|ConsoleApp1\\1.CountSameValuesInArray.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\08.SoftUniParty\\Program.cs",
+              "RelativeDocumentMoniker": "08.SoftUniParty\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\08.SoftUniParty\\Program.cs",
+              "RelativeToolTip": "08.SoftUniParty\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwCsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:02:30.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\07.ParkingLot\\Program.cs",
+              "RelativeDocumentMoniker": "07.ParkingLot\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\07.ParkingLot\\Program.cs",
+              "RelativeToolTip": "07.ParkingLot\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:50:51.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\06.RecordUniqueNames\\Program.cs",
+              "RelativeDocumentMoniker": "06.RecordUniqueNames\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\06.RecordUniqueNames\\Program.cs",
+              "RelativeToolTip": "06.RecordUniqueNames\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:47:11.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\05.CitiesByContinentAndCountry\\Program.cs",
+              "RelativeDocumentMoniker": "05.CitiesByContinentAndCountry\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\05.CitiesByContinentAndCountry\\Program.cs",
+              "RelativeToolTip": "05.CitiesByContinentAndCountry\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:27:50.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\04ProductShop\\Program.cs",
+              "RelativeDocumentMoniker": "04ProductShop\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\04ProductShop\\Program.cs",
+              "RelativeToolTip": "04ProductShop\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:37:34.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\3.Largest3Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "3.Largest3Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\3.Largest3Numbers\\Program.cs",
+              "RelativeToolTip": "3.Largest3Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:30:13.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\02.AverageStudentGrades\\Program.cs",
+              "RelativeDocumentMoniker": "02.AverageStudentGrades\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\02.AverageStudentGrades\\Program.cs",
+              "RelativeToolTip": "02.AverageStudentGrades\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA7wAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:40:38.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\1.CountSameValuesInArray\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:27:58.684Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

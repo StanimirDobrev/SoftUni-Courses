@@ -1,0 +1,14 @@
+D:\C# PB\01. FirstStepsInPrograming-Lab\09. YardGreening\bin\Debug\net6.0\09. YardGreening.exe
+D:\C# PB\01. FirstStepsInPrograming-Lab\09. YardGreening\bin\Debug\net6.0\09. YardGreening.deps.json
+D:\C# PB\01. FirstStepsInPrograming-Lab\09. YardGreening\bin\Debug\net6.0\09. YardGreening.runtimeconfig.json
+D:\C# PB\01. FirstStepsInPrograming-Lab\09. YardGreening\bin\Debug\net6.0\09. YardGreening.dll
+D:\C# PB\01. FirstStepsInPrograming-Lab\09. YardGreening\bin\Debug\net6.0\09. YardGreening.pdb
+D:\C# PB\01. FirstStepsInPrograming-Lab\09. YardGreening\obj\Debug\net6.0\09. YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\01. FirstStepsInPrograming-Lab\09. YardGreening\obj\Debug\net6.0\09. YardGreening.AssemblyInfoInputs.cache
+D:\C# PB\01. FirstStepsInPrograming-Lab\09. YardGreening\obj\Debug\net6.0\09. YardGreening.AssemblyInfo.cs
+D:\C# PB\01. FirstStepsInPrograming-Lab\09. YardGreening\obj\Debug\net6.0\09. YardGreening.csproj.CoreCompileInputs.cache
+D:\C# PB\01. FirstStepsInPrograming-Lab\09. YardGreening\obj\Debug\net6.0\09. YardGreening.dll
+D:\C# PB\01. FirstStepsInPrograming-Lab\09. YardGreening\obj\Debug\net6.0\refint\09. YardGreening.dll
+D:\C# PB\01. FirstStepsInPrograming-Lab\09. YardGreening\obj\Debug\net6.0\09. YardGreening.pdb
+D:\C# PB\01. FirstStepsInPrograming-Lab\09. YardGreening\obj\Debug\net6.0\09. YardGreening.genruntimeconfig.cache
+D:\C# PB\01. FirstStepsInPrograming-Lab\09. YardGreening\obj\Debug\net6.0\ref\09. YardGreening.dll

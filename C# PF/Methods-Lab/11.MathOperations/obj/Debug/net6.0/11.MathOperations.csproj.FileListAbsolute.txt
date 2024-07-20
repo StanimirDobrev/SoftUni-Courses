@@ -1,0 +1,14 @@
+D:\C# PF\Methods-Lab\11.MathOperations\bin\Debug\net6.0\11.MathOperations.exe
+D:\C# PF\Methods-Lab\11.MathOperations\bin\Debug\net6.0\11.MathOperations.deps.json
+D:\C# PF\Methods-Lab\11.MathOperations\bin\Debug\net6.0\11.MathOperations.runtimeconfig.json
+D:\C# PF\Methods-Lab\11.MathOperations\bin\Debug\net6.0\11.MathOperations.dll
+D:\C# PF\Methods-Lab\11.MathOperations\bin\Debug\net6.0\11.MathOperations.pdb
+D:\C# PF\Methods-Lab\11.MathOperations\obj\Debug\net6.0\11.MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\Methods-Lab\11.MathOperations\obj\Debug\net6.0\11.MathOperations.AssemblyInfoInputs.cache
+D:\C# PF\Methods-Lab\11.MathOperations\obj\Debug\net6.0\11.MathOperations.AssemblyInfo.cs
+D:\C# PF\Methods-Lab\11.MathOperations\obj\Debug\net6.0\11.MathOperations.csproj.CoreCompileInputs.cache
+D:\C# PF\Methods-Lab\11.MathOperations\obj\Debug\net6.0\11.MathOperations.dll
+D:\C# PF\Methods-Lab\11.MathOperations\obj\Debug\net6.0\refint\11.MathOperations.dll
+D:\C# PF\Methods-Lab\11.MathOperations\obj\Debug\net6.0\11.MathOperations.pdb
+D:\C# PF\Methods-Lab\11.MathOperations\obj\Debug\net6.0\11.MathOperations.genruntimeconfig.cache
+D:\C# PF\Methods-Lab\11.MathOperations\obj\Debug\net6.0\ref\11.MathOperations.dll

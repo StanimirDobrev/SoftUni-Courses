@@ -1,0 +1,14 @@
+D:\C# PB\WhileLoop-Lab\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.exe
+D:\C# PB\WhileLoop-Lab\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.deps.json
+D:\C# PB\WhileLoop-Lab\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.runtimeconfig.json
+D:\C# PB\WhileLoop-Lab\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.dll
+D:\C# PB\WhileLoop-Lab\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.pdb
+D:\C# PB\WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.AssemblyInfoInputs.cache
+D:\C# PB\WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.AssemblyInfo.cs
+D:\C# PB\WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.csproj.CoreCompileInputs.cache
+D:\C# PB\WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.dll
+D:\C# PB\WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\refint\06.MaxNumber.dll
+D:\C# PB\WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.pdb
+D:\C# PB\WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.genruntimeconfig.cache
+D:\C# PB\WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\ref\06.MaxNumber.dll

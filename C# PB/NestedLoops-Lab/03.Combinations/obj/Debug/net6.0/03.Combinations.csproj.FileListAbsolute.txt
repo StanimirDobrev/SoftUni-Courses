@@ -1,0 +1,14 @@
+D:\C# PB\NestedLoops-Lab\03.Combinations\bin\Debug\net6.0\03.Combinations.exe
+D:\C# PB\NestedLoops-Lab\03.Combinations\bin\Debug\net6.0\03.Combinations.deps.json
+D:\C# PB\NestedLoops-Lab\03.Combinations\bin\Debug\net6.0\03.Combinations.runtimeconfig.json
+D:\C# PB\NestedLoops-Lab\03.Combinations\bin\Debug\net6.0\03.Combinations.dll
+D:\C# PB\NestedLoops-Lab\03.Combinations\bin\Debug\net6.0\03.Combinations.pdb
+D:\C# PB\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.AssemblyInfoInputs.cache
+D:\C# PB\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.AssemblyInfo.cs
+D:\C# PB\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.csproj.CoreCompileInputs.cache
+D:\C# PB\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.dll
+D:\C# PB\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\refint\03.Combinations.dll
+D:\C# PB\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.pdb
+D:\C# PB\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.genruntimeconfig.cache
+D:\C# PB\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\ref\03.Combinations.dll

@@ -1,0 +1,14 @@
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\net6.0\04.FishingBoat.exe
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\net6.0\04.FishingBoat.deps.json
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\net6.0\04.FishingBoat.runtimeconfig.json
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\net6.0\04.FishingBoat.dll
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\net6.0\04.FishingBoat.pdb
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net6.0\04.FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net6.0\04.FishingBoat.AssemblyInfoInputs.cache
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net6.0\04.FishingBoat.AssemblyInfo.cs
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net6.0\04.FishingBoat.csproj.CoreCompileInputs.cache
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net6.0\04.FishingBoat.dll
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net6.0\refint\04.FishingBoat.dll
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net6.0\04.FishingBoat.pdb
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net6.0\04.FishingBoat.genruntimeconfig.cache
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\net6.0\ref\04.FishingBoat.dll

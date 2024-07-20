@@ -1,0 +1,14 @@
+D:\C# PF\01.DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\net6.0\09.CharsToString.exe
+D:\C# PF\01.DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\net6.0\09.CharsToString.deps.json
+D:\C# PF\01.DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\net6.0\09.CharsToString.runtimeconfig.json
+D:\C# PF\01.DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\net6.0\09.CharsToString.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\net6.0\09.CharsToString.pdb
+D:\C# PF\01.DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\01.DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.AssemblyInfoInputs.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.AssemblyInfo.cs
+D:\C# PF\01.DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.csproj.CoreCompileInputs.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\refint\09.CharsToString.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.pdb
+D:\C# PF\01.DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.genruntimeconfig.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\ref\09.CharsToString.dll

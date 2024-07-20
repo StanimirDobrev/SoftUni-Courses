@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\03.PiePursuit\bin\Debug\net6.0\03.PiePursuit.exe
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\03.PiePursuit\bin\Debug\net6.0\03.PiePursuit.deps.json
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\03.PiePursuit\bin\Debug\net6.0\03.PiePursuit.runtimeconfig.json
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\03.PiePursuit\bin\Debug\net6.0\03.PiePursuit.dll
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\03.PiePursuit\bin\Debug\net6.0\03.PiePursuit.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\03.PiePursuit\obj\Debug\net6.0\03.PiePursuit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\03.PiePursuit\obj\Debug\net6.0\03.PiePursuit.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\03.PiePursuit\obj\Debug\net6.0\03.PiePursuit.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\03.PiePursuit\obj\Debug\net6.0\03.PiePursuit.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\03.PiePursuit\obj\Debug\net6.0\03.PiePursuit.dll
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\03.PiePursuit\obj\Debug\net6.0\refint\03.PiePursuit.dll
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\03.PiePursuit\obj\Debug\net6.0\03.PiePursuit.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\03.PiePursuit\obj\Debug\net6.0\03.PiePursuit.genruntimeconfig.cache
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\03.PiePursuit\obj\Debug\net6.0\ref\03.PiePursuit.dll

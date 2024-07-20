@@ -1,0 +1,14 @@
+D:\C# PF\01.DataTypesAndVariables-Lab\04.CenturiesToMinutes\bin\Debug\net6.0\04.CenturiesToMinutes.exe
+D:\C# PF\01.DataTypesAndVariables-Lab\04.CenturiesToMinutes\bin\Debug\net6.0\04.CenturiesToMinutes.deps.json
+D:\C# PF\01.DataTypesAndVariables-Lab\04.CenturiesToMinutes\bin\Debug\net6.0\04.CenturiesToMinutes.runtimeconfig.json
+D:\C# PF\01.DataTypesAndVariables-Lab\04.CenturiesToMinutes\bin\Debug\net6.0\04.CenturiesToMinutes.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\04.CenturiesToMinutes\bin\Debug\net6.0\04.CenturiesToMinutes.pdb
+D:\C# PF\01.DataTypesAndVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\04.CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\01.DataTypesAndVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\04.CenturiesToMinutes.AssemblyInfoInputs.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\04.CenturiesToMinutes.AssemblyInfo.cs
+D:\C# PF\01.DataTypesAndVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\04.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\04.CenturiesToMinutes.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\refint\04.CenturiesToMinutes.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\04.CenturiesToMinutes.pdb
+D:\C# PF\01.DataTypesAndVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\04.CenturiesToMinutes.genruntimeconfig.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\ref\04.CenturiesToMinutes.dll

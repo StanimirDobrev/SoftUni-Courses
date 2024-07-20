@@ -1,0 +1,14 @@
+D:\C# PB\PB-PreExam\06. Unique PIN Codes\bin\Debug\net6.0\06. Unique PIN Codes.exe
+D:\C# PB\PB-PreExam\06. Unique PIN Codes\bin\Debug\net6.0\06. Unique PIN Codes.deps.json
+D:\C# PB\PB-PreExam\06. Unique PIN Codes\bin\Debug\net6.0\06. Unique PIN Codes.runtimeconfig.json
+D:\C# PB\PB-PreExam\06. Unique PIN Codes\bin\Debug\net6.0\06. Unique PIN Codes.dll
+D:\C# PB\PB-PreExam\06. Unique PIN Codes\bin\Debug\net6.0\06. Unique PIN Codes.pdb
+D:\C# PB\PB-PreExam\06. Unique PIN Codes\obj\Debug\net6.0\06. Unique PIN Codes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\PB-PreExam\06. Unique PIN Codes\obj\Debug\net6.0\06. Unique PIN Codes.AssemblyInfoInputs.cache
+D:\C# PB\PB-PreExam\06. Unique PIN Codes\obj\Debug\net6.0\06. Unique PIN Codes.AssemblyInfo.cs
+D:\C# PB\PB-PreExam\06. Unique PIN Codes\obj\Debug\net6.0\06. Unique PIN Codes.csproj.CoreCompileInputs.cache
+D:\C# PB\PB-PreExam\06. Unique PIN Codes\obj\Debug\net6.0\06. Unique PIN Codes.dll
+D:\C# PB\PB-PreExam\06. Unique PIN Codes\obj\Debug\net6.0\refint\06. Unique PIN Codes.dll
+D:\C# PB\PB-PreExam\06. Unique PIN Codes\obj\Debug\net6.0\06. Unique PIN Codes.pdb
+D:\C# PB\PB-PreExam\06. Unique PIN Codes\obj\Debug\net6.0\06. Unique PIN Codes.genruntimeconfig.cache
+D:\C# PB\PB-PreExam\06. Unique PIN Codes\obj\Debug\net6.0\ref\06. Unique PIN Codes.dll

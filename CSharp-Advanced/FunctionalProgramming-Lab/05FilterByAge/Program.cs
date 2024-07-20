@@ -1,0 +1,78 @@
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace _05FilterByAge
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            List<Person> people = ReadPeople();
+
+            string condition = Console.ReadLine();
+            int ageTreshold = int.Parse(Console.ReadLine());
+
+            Func<Person, bool> filter = CreateFilter(condition, ageTreshold);
+
+            string format = Console.ReadLine();
+
+            Action<Person> printer = CreatePrinter(format);
+            PrintFilteredPeople(people, filter, printer);
+        }
+
+        private static void PrintFilteredPeople(List<Person> people, Func<Person, bool> filter, Action<Person> printer)
+        {
+            foreach (Person person in people)
+            {
+                if (filter(person))
+                {
+                    printer(person);
+                }
+            }
+        }
+
+        private static Action<Person> CreatePrinter(string? format)
+        {
+            switch (format)
+            {
+                case "name": return p => Console.WriteLine($"{p.Name}");
+                case "age": return p => Console.WriteLine($"{p.Age}");
+                case "name age": return p => Console.WriteLine($"{p.Name} - {p.Age}");
+                default: throw new ArgumentException(format);
+            }
+        }
+
+        static Func<Person, bool> CreateFilter(string? condition, int ageTreshold)
+        {
+            switch (condition)
+            {
+                case "younger": return p => p.Age < ageTreshold;
+                case "older": return p => p.Age >= ageTreshold;
+                default: throw new ArgumentException(condition);
+
+            }
+        }
+
+        static List<Person> ReadPeople()
+         {
+             List<Person> people = new List<Person>();
+
+             int count = int.Parse(Console.ReadLine());
+
+             for (int i = 0; i < count; i++)
+             {
+                 string[] tokens = Console.ReadLine().Split(", ", StringSplitOptions.RemoveEmptyEntries);
+                 Person person = new Person();
+                 person.Name = tokens[0];
+                 person.Age = int.Parse(tokens[1]);
+                people.Add(person);
+             }
+             return people;
+         }
+    }
+
+    public class Person
+    {
+        public string Name { get; set; }
+        public int Age { get; set; }
+    }
+}

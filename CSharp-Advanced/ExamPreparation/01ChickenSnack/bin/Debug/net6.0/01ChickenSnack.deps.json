@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "01ChickenSnack/1.0.0": {
+        "runtime": {
+          "01ChickenSnack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01ChickenSnack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

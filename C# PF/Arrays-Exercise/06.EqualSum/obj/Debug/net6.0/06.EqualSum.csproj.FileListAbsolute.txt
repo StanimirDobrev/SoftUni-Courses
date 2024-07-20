@@ -1,0 +1,14 @@
+D:\C# PF\Arrays-Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.exe
+D:\C# PF\Arrays-Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.deps.json
+D:\C# PF\Arrays-Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.runtimeconfig.json
+D:\C# PF\Arrays-Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.dll
+D:\C# PF\Arrays-Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.pdb
+D:\C# PF\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.AssemblyInfoInputs.cache
+D:\C# PF\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.AssemblyInfo.cs
+D:\C# PF\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.csproj.CoreCompileInputs.cache
+D:\C# PF\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.dll
+D:\C# PF\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\refint\06.EqualSum.dll
+D:\C# PF\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.pdb
+D:\C# PF\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.genruntimeconfig.cache
+D:\C# PF\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\ref\06.EqualSum.dll

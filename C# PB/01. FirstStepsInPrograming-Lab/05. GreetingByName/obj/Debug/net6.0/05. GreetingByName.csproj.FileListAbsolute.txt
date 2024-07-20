@@ -1,0 +1,14 @@
+D:\C# PB\01. FirstStepsInPrograming-Lab\05. GreetingByName\bin\Debug\net6.0\05. GreetingByName.exe
+D:\C# PB\01. FirstStepsInPrograming-Lab\05. GreetingByName\bin\Debug\net6.0\05. GreetingByName.deps.json
+D:\C# PB\01. FirstStepsInPrograming-Lab\05. GreetingByName\bin\Debug\net6.0\05. GreetingByName.runtimeconfig.json
+D:\C# PB\01. FirstStepsInPrograming-Lab\05. GreetingByName\bin\Debug\net6.0\05. GreetingByName.dll
+D:\C# PB\01. FirstStepsInPrograming-Lab\05. GreetingByName\bin\Debug\net6.0\05. GreetingByName.pdb
+D:\C# PB\01. FirstStepsInPrograming-Lab\05. GreetingByName\obj\Debug\net6.0\05. GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\01. FirstStepsInPrograming-Lab\05. GreetingByName\obj\Debug\net6.0\05. GreetingByName.AssemblyInfoInputs.cache
+D:\C# PB\01. FirstStepsInPrograming-Lab\05. GreetingByName\obj\Debug\net6.0\05. GreetingByName.AssemblyInfo.cs
+D:\C# PB\01. FirstStepsInPrograming-Lab\05. GreetingByName\obj\Debug\net6.0\05. GreetingByName.csproj.CoreCompileInputs.cache
+D:\C# PB\01. FirstStepsInPrograming-Lab\05. GreetingByName\obj\Debug\net6.0\05. GreetingByName.dll
+D:\C# PB\01. FirstStepsInPrograming-Lab\05. GreetingByName\obj\Debug\net6.0\refint\05. GreetingByName.dll
+D:\C# PB\01. FirstStepsInPrograming-Lab\05. GreetingByName\obj\Debug\net6.0\05. GreetingByName.pdb
+D:\C# PB\01. FirstStepsInPrograming-Lab\05. GreetingByName\obj\Debug\net6.0\05. GreetingByName.genruntimeconfig.cache
+D:\C# PB\01. FirstStepsInPrograming-Lab\05. GreetingByName\obj\Debug\net6.0\ref\05. GreetingByName.dll

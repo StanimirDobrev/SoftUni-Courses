@@ -1,0 +1,14 @@
+D:\C# PF\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\net6.0\06.TriplesOfLatinLetters.exe
+D:\C# PF\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\net6.0\06.TriplesOfLatinLetters.deps.json
+D:\C# PF\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\net6.0\06.TriplesOfLatinLetters.runtimeconfig.json
+D:\C# PF\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\net6.0\06.TriplesOfLatinLetters.dll
+D:\C# PF\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\net6.0\06.TriplesOfLatinLetters.pdb
+D:\C# PF\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.AssemblyInfoInputs.cache
+D:\C# PF\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.AssemblyInfo.cs
+D:\C# PF\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+D:\C# PF\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.dll
+D:\C# PF\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\refint\06.TriplesOfLatinLetters.dll
+D:\C# PF\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.pdb
+D:\C# PF\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.genruntimeconfig.cache
+D:\C# PF\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\ref\06.TriplesOfLatinLetters.dll

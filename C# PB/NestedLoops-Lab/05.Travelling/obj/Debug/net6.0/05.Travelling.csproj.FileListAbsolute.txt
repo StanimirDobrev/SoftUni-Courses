@@ -1,0 +1,14 @@
+D:\C# PB\NestedLoops-Lab\05.Travelling\bin\Debug\net6.0\05.Travelling.exe
+D:\C# PB\NestedLoops-Lab\05.Travelling\bin\Debug\net6.0\05.Travelling.deps.json
+D:\C# PB\NestedLoops-Lab\05.Travelling\bin\Debug\net6.0\05.Travelling.runtimeconfig.json
+D:\C# PB\NestedLoops-Lab\05.Travelling\bin\Debug\net6.0\05.Travelling.dll
+D:\C# PB\NestedLoops-Lab\05.Travelling\bin\Debug\net6.0\05.Travelling.pdb
+D:\C# PB\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.AssemblyInfoInputs.cache
+D:\C# PB\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.AssemblyInfo.cs
+D:\C# PB\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.csproj.CoreCompileInputs.cache
+D:\C# PB\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.dll
+D:\C# PB\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\refint\05.Travelling.dll
+D:\C# PB\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.pdb
+D:\C# PB\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.genruntimeconfig.cache
+D:\C# PB\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\ref\05.Travelling.dll

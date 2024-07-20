@@ -1,0 +1,14 @@
+D:\C# PB\PB-PreExam\05. Hair Salon\bin\Debug\net6.0\05. Hair Salon.exe
+D:\C# PB\PB-PreExam\05. Hair Salon\bin\Debug\net6.0\05. Hair Salon.deps.json
+D:\C# PB\PB-PreExam\05. Hair Salon\bin\Debug\net6.0\05. Hair Salon.runtimeconfig.json
+D:\C# PB\PB-PreExam\05. Hair Salon\bin\Debug\net6.0\05. Hair Salon.dll
+D:\C# PB\PB-PreExam\05. Hair Salon\bin\Debug\net6.0\05. Hair Salon.pdb
+D:\C# PB\PB-PreExam\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\PB-PreExam\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.AssemblyInfoInputs.cache
+D:\C# PB\PB-PreExam\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.AssemblyInfo.cs
+D:\C# PB\PB-PreExam\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.csproj.CoreCompileInputs.cache
+D:\C# PB\PB-PreExam\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.dll
+D:\C# PB\PB-PreExam\05. Hair Salon\obj\Debug\net6.0\refint\05. Hair Salon.dll
+D:\C# PB\PB-PreExam\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.pdb
+D:\C# PB\PB-PreExam\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.genruntimeconfig.cache
+D:\C# PB\PB-PreExam\05. Hair Salon\obj\Debug\net6.0\ref\05. Hair Salon.dll

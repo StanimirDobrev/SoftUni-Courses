@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\RegularExpressions-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{160F4550-FA81-4F33-ADBE-D3B0D7163335}|03.MatchDates\\03.MatchDates.csproj|c:\\users\\pc\\source\\repos\\regularexpressions-lab\\03.matchdates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160F4550-FA81-4F33-ADBE-D3B0D7163335}|03.MatchDates\\03.MatchDates.csproj|solutionrelative:03.matchdates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A96187E-E8C2-4124-A95C-67FFCD1E1F5B}|02.MatchPhoneNumber\\02.MatchPhoneNumber.csproj|c:\\users\\pc\\source\\repos\\regularexpressions-lab\\02.matchphonenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A96187E-E8C2-4124-A95C-67FFCD1E1F5B}|02.MatchPhoneNumber\\02.MatchPhoneNumber.csproj|solutionrelative:02.matchphonenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12872F3-7D61-4F6A-882E-592D4AD94CE9}|01.MatchFullName\\01.MatchFullName.csproj|c:\\users\\pc\\source\\repos\\regularexpressions-lab\\01.matchfullname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12872F3-7D61-4F6A-882E-592D4AD94CE9}|01.MatchFullName\\01.MatchFullName.csproj|solutionrelative:01.matchfullname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegularExpressions-Lab\\03.MatchDates\\Program.cs",
+              "RelativeDocumentMoniker": "03.MatchDates\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegularExpressions-Lab\\03.MatchDates\\Program.cs",
+              "RelativeToolTip": "03.MatchDates\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:31:45.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegularExpressions-Lab\\02.MatchPhoneNumber\\Program.cs",
+              "RelativeDocumentMoniker": "02.MatchPhoneNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegularExpressions-Lab\\02.MatchPhoneNumber\\Program.cs",
+              "RelativeToolTip": "02.MatchPhoneNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:52:05.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegularExpressions-Lab\\01.MatchFullName\\Program.cs",
+              "RelativeDocumentMoniker": "01.MatchFullName\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegularExpressions-Lab\\01.MatchFullName\\Program.cs",
+              "RelativeToolTip": "01.MatchFullName\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:32:15.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

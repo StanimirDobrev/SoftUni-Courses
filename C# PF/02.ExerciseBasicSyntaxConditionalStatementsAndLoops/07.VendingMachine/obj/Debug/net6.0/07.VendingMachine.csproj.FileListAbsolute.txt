@@ -1,0 +1,14 @@
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\07.VendingMachine\bin\Debug\net6.0\07.VendingMachine.exe
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\07.VendingMachine\bin\Debug\net6.0\07.VendingMachine.deps.json
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\07.VendingMachine\bin\Debug\net6.0\07.VendingMachine.runtimeconfig.json
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\07.VendingMachine\bin\Debug\net6.0\07.VendingMachine.dll
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\07.VendingMachine\bin\Debug\net6.0\07.VendingMachine.pdb
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.AssemblyInfoInputs.cache
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.AssemblyInfo.cs
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.csproj.CoreCompileInputs.cache
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.dll
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\07.VendingMachine\obj\Debug\net6.0\refint\07.VendingMachine.dll
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.pdb
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.genruntimeconfig.cache
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\07.VendingMachine\obj\Debug\net6.0\ref\07.VendingMachine.dll

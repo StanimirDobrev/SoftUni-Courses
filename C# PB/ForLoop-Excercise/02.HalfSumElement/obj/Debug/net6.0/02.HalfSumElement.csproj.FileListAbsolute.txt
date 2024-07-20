@@ -1,0 +1,14 @@
+D:\C# PB\ForLoop-Excercise\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.exe
+D:\C# PB\ForLoop-Excercise\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.deps.json
+D:\C# PB\ForLoop-Excercise\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.runtimeconfig.json
+D:\C# PB\ForLoop-Excercise\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.dll
+D:\C# PB\ForLoop-Excercise\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.pdb
+D:\C# PB\ForLoop-Excercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\ForLoop-Excercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.AssemblyInfoInputs.cache
+D:\C# PB\ForLoop-Excercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.AssemblyInfo.cs
+D:\C# PB\ForLoop-Excercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.csproj.CoreCompileInputs.cache
+D:\C# PB\ForLoop-Excercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.dll
+D:\C# PB\ForLoop-Excercise\02.HalfSumElement\obj\Debug\net6.0\refint\02.HalfSumElement.dll
+D:\C# PB\ForLoop-Excercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.pdb
+D:\C# PB\ForLoop-Excercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.genruntimeconfig.cache
+D:\C# PB\ForLoop-Excercise\02.HalfSumElement\obj\Debug\net6.0\ref\02.HalfSumElement.dll

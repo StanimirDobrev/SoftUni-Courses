@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\05FilterByAge\bin\Debug\net6.0\05FilterByAge.exe
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\05FilterByAge\bin\Debug\net6.0\05FilterByAge.deps.json
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\05FilterByAge\bin\Debug\net6.0\05FilterByAge.runtimeconfig.json
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\05FilterByAge\bin\Debug\net6.0\05FilterByAge.dll
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\05FilterByAge\bin\Debug\net6.0\05FilterByAge.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\05FilterByAge\obj\Debug\net6.0\05FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\05FilterByAge\obj\Debug\net6.0\05FilterByAge.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\05FilterByAge\obj\Debug\net6.0\05FilterByAge.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\05FilterByAge\obj\Debug\net6.0\05FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\05FilterByAge\obj\Debug\net6.0\05FilterByAge.dll
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\05FilterByAge\obj\Debug\net6.0\refint\05FilterByAge.dll
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\05FilterByAge\obj\Debug\net6.0\05FilterByAge.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\05FilterByAge\obj\Debug\net6.0\05FilterByAge.genruntimeconfig.cache
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\05FilterByAge\obj\Debug\net6.0\ref\05FilterByAge.dll

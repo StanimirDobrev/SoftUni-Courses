@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9982D470-B342-4FC6-B8FF-317743959A35}|Threeuple\\Threeuple.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-exercise\\threeuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9982D470-B342-4FC6-B8FF-317743959A35}|Threeuple\\Threeuple.csproj|solutionrelative:threeuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9982D470-B342-4FC6-B8FF-317743959A35}|Threeuple\\Threeuple.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-exercise\\threeuple\\mytuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9982D470-B342-4FC6-B8FF-317743959A35}|Threeuple\\Threeuple.csproj|solutionrelative:threeuple\\mytuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C027907D-A079-4337-97B9-BC2535B7AA28}|Tuple\\Tuple.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-exercise\\tuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C027907D-A079-4337-97B9-BC2535B7AA28}|Tuple\\Tuple.csproj|solutionrelative:tuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C027907D-A079-4337-97B9-BC2535B7AA28}|Tuple\\Tuple.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-exercise\\tuple\\mytuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C027907D-A079-4337-97B9-BC2535B7AA28}|Tuple\\Tuple.csproj|solutionrelative:tuple\\mytuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1B1A9F-0A02-463C-8D54-1380152D0904}|GenericCountMethodDouble\\GenericCountMethodDouble.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-exercise\\genericcountmethoddouble\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1B1A9F-0A02-463C-8D54-1380152D0904}|GenericCountMethodDouble\\GenericCountMethodDouble.csproj|solutionrelative:genericcountmethoddouble\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68407BF-81CD-4785-936D-DDE6187FFFF3}|GenericCountMethodStrings\\GenericCountMethodStrings.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-exercise\\genericcountmethodstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68407BF-81CD-4785-936D-DDE6187FFFF3}|GenericCountMethodStrings\\GenericCountMethodStrings.csproj|solutionrelative:genericcountmethodstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68407BF-81CD-4785-936D-DDE6187FFFF3}|GenericCountMethodStrings\\GenericCountMethodStrings.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-exercise\\genericcountmethodstrings\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68407BF-81CD-4785-936D-DDE6187FFFF3}|GenericCountMethodStrings\\GenericCountMethodStrings.csproj|solutionrelative:genericcountmethodstrings\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C7F550-0612-4A12-858E-16B64F320221}|GenericBoxOfInteger\\GenericBoxOfInteger.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-exercise\\genericboxofinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C7F550-0612-4A12-858E-16B64F320221}|GenericBoxOfInteger\\GenericBoxOfInteger.csproj|solutionrelative:genericboxofinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD83018A-2970-48EF-BB06-3CDEC33E06E6}|GenericSwapMethodInteger\\GenericSwapMethodInteger.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-exercise\\genericswapmethodinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD83018A-2970-48EF-BB06-3CDEC33E06E6}|GenericSwapMethodInteger\\GenericSwapMethodInteger.csproj|solutionrelative:genericswapmethodinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE73B9E-5CE9-4268-AF26-316FA4B8E85F}|GenericSwapMethodString\\GenericSwapMethodString.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-exercise\\genericswapmethodstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE73B9E-5CE9-4268-AF26-316FA4B8E85F}|GenericSwapMethodString\\GenericSwapMethodString.csproj|solutionrelative:genericswapmethodstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE73B9E-5CE9-4268-AF26-316FA4B8E85F}|GenericSwapMethodString\\GenericSwapMethodString.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-exercise\\genericswapmethodstring\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE73B9E-5CE9-4268-AF26-316FA4B8E85F}|GenericSwapMethodString\\GenericSwapMethodString.csproj|solutionrelative:genericswapmethodstring\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33CD367-77FF-4B0F-BE99-19890ECB0A5A}|01.GenericBoxOfString\\01.GenericBoxOfString.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-exercise\\01.genericboxofstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33CD367-77FF-4B0F-BE99-19890ECB0A5A}|01.GenericBoxOfString\\01.GenericBoxOfString.csproj|solutionrelative:01.genericboxofstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33CD367-77FF-4B0F-BE99-19890ECB0A5A}|01.GenericBoxOfString\\01.GenericBoxOfString.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\generics-exercise\\01.genericboxofstring\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33CD367-77FF-4B0F-BE99-19890ECB0A5A}|01.GenericBoxOfString\\01.GenericBoxOfString.csproj|solutionrelative:01.genericboxofstring\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyTuple.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\Threeuple\\MyTuple.cs",
+              "RelativeDocumentMoniker": "Threeuple\\MyTuple.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\Threeuple\\MyTuple.cs",
+              "RelativeToolTip": "Threeuple\\MyTuple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:56:35.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\Threeuple\\Program.cs",
+              "RelativeDocumentMoniker": "Threeuple\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\Threeuple\\Program.cs",
+              "RelativeToolTip": "Threeuple\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwCEAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:56:27.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyTuple.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\Tuple\\MyTuple.cs",
+              "RelativeDocumentMoniker": "Tuple\\MyTuple.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\Tuple\\MyTuple.cs",
+              "RelativeToolTip": "Tuple\\MyTuple.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:40:09.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\Tuple\\Program.cs",
+              "RelativeDocumentMoniker": "Tuple\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\Tuple\\Program.cs",
+              "RelativeToolTip": "Tuple\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA4wAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:39:44.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\GenericCountMethodDouble\\Program.cs",
+              "RelativeDocumentMoniker": "GenericCountMethodDouble\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\GenericCountMethodDouble\\Program.cs",
+              "RelativeToolTip": "GenericCountMethodDouble\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:32:04.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\GenericCountMethodStrings\\Box.cs",
+              "RelativeDocumentMoniker": "GenericCountMethodStrings\\Box.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\GenericCountMethodStrings\\Box.cs",
+              "RelativeToolTip": "GenericCountMethodStrings\\Box.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:23:58.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\GenericCountMethodStrings\\Program.cs",
+              "RelativeDocumentMoniker": "GenericCountMethodStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\GenericCountMethodStrings\\Program.cs",
+              "RelativeToolTip": "GenericCountMethodStrings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:21:56.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\GenericSwapMethodInteger\\Program.cs",
+              "RelativeDocumentMoniker": "GenericSwapMethodInteger\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\GenericSwapMethodInteger\\Program.cs",
+              "RelativeToolTip": "GenericSwapMethodInteger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:12:51.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\GenericSwapMethodString\\Box.cs",
+              "RelativeDocumentMoniker": "GenericSwapMethodString\\Box.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\GenericSwapMethodString\\Box.cs",
+              "RelativeToolTip": "GenericSwapMethodString\\Box.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:05:08.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\GenericSwapMethodString\\Program.cs",
+              "RelativeDocumentMoniker": "GenericSwapMethodString\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\GenericSwapMethodString\\Program.cs",
+              "RelativeToolTip": "GenericSwapMethodString\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:04:31.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\GenericBoxOfInteger\\Program.cs",
+              "RelativeDocumentMoniker": "GenericBoxOfInteger\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\GenericBoxOfInteger\\Program.cs",
+              "RelativeToolTip": "GenericBoxOfInteger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:02:11.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\01.GenericBoxOfString\\Box.cs",
+              "RelativeDocumentMoniker": "01.GenericBoxOfString\\Box.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\01.GenericBoxOfString\\Box.cs",
+              "RelativeToolTip": "01.GenericBoxOfString\\Box.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:52:40.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\01.GenericBoxOfString\\Program.cs",
+              "RelativeDocumentMoniker": "01.GenericBoxOfString\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Generics-Exercise\\01.GenericBoxOfString\\Program.cs",
+              "RelativeToolTip": "01.GenericBoxOfString\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:51:03.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

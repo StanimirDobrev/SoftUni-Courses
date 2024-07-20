@@ -1,0 +1,14 @@
+D:\C# PF\Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.exe
+D:\C# PF\Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.deps.json
+D:\C# PF\Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.runtimeconfig.json
+D:\C# PF\Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.dll
+D:\C# PF\Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.pdb
+D:\C# PF\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.AssemblyInfoInputs.cache
+D:\C# PF\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.AssemblyInfo.cs
+D:\C# PF\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.csproj.CoreCompileInputs.cache
+D:\C# PF\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.dll
+D:\C# PF\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\refint\03.RoundingNumbers.dll
+D:\C# PF\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.pdb
+D:\C# PF\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.genruntimeconfig.cache
+D:\C# PF\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\ref\03.RoundingNumbers.dll

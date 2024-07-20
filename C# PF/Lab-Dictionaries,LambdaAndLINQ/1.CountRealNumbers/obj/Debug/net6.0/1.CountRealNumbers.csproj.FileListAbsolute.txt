@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\1.CountRealNumbers\bin\Debug\net6.0\1.CountRealNumbers.exe
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\1.CountRealNumbers\bin\Debug\net6.0\1.CountRealNumbers.deps.json
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\1.CountRealNumbers\bin\Debug\net6.0\1.CountRealNumbers.runtimeconfig.json
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\1.CountRealNumbers\bin\Debug\net6.0\1.CountRealNumbers.dll
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\1.CountRealNumbers\bin\Debug\net6.0\1.CountRealNumbers.pdb
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\1.CountRealNumbers\obj\Debug\net6.0\1.CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\1.CountRealNumbers\obj\Debug\net6.0\1.CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\1.CountRealNumbers\obj\Debug\net6.0\1.CountRealNumbers.AssemblyInfo.cs
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\1.CountRealNumbers\obj\Debug\net6.0\1.CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\1.CountRealNumbers\obj\Debug\net6.0\1.CountRealNumbers.dll
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\1.CountRealNumbers\obj\Debug\net6.0\refint\1.CountRealNumbers.dll
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\1.CountRealNumbers\obj\Debug\net6.0\1.CountRealNumbers.pdb
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\1.CountRealNumbers\obj\Debug\net6.0\1.CountRealNumbers.genruntimeconfig.cache
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\1.CountRealNumbers\obj\Debug\net6.0\ref\1.CountRealNumbers.dll

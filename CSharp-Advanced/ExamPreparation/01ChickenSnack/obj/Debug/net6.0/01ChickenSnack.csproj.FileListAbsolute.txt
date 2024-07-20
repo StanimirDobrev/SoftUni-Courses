@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\01ChickenSnack\bin\Debug\net6.0\01ChickenSnack.exe
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\01ChickenSnack\bin\Debug\net6.0\01ChickenSnack.deps.json
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\01ChickenSnack\bin\Debug\net6.0\01ChickenSnack.runtimeconfig.json
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\01ChickenSnack\bin\Debug\net6.0\01ChickenSnack.dll
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\01ChickenSnack\bin\Debug\net6.0\01ChickenSnack.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\01ChickenSnack\obj\Debug\net6.0\01ChickenSnack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\01ChickenSnack\obj\Debug\net6.0\01ChickenSnack.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\01ChickenSnack\obj\Debug\net6.0\01ChickenSnack.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\01ChickenSnack\obj\Debug\net6.0\01ChickenSnack.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\01ChickenSnack\obj\Debug\net6.0\01ChickenSnack.dll
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\01ChickenSnack\obj\Debug\net6.0\refint\01ChickenSnack.dll
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\01ChickenSnack\obj\Debug\net6.0\01ChickenSnack.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\01ChickenSnack\obj\Debug\net6.0\01ChickenSnack.genruntimeconfig.cache
+C:\Users\PC\source\repos\CSharp-Advanced\ExamPreparation\01ChickenSnack\obj\Debug\net6.0\ref\01ChickenSnack.dll

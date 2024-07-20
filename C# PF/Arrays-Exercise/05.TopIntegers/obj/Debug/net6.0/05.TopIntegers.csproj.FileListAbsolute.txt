@@ -1,0 +1,14 @@
+D:\C# PF\Arrays-Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.exe
+D:\C# PF\Arrays-Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.deps.json
+D:\C# PF\Arrays-Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.runtimeconfig.json
+D:\C# PF\Arrays-Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.dll
+D:\C# PF\Arrays-Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.pdb
+D:\C# PF\Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.AssemblyInfoInputs.cache
+D:\C# PF\Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.AssemblyInfo.cs
+D:\C# PF\Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.csproj.CoreCompileInputs.cache
+D:\C# PF\Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.dll
+D:\C# PF\Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\refint\05.TopIntegers.dll
+D:\C# PF\Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.pdb
+D:\C# PF\Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.genruntimeconfig.cache
+D:\C# PF\Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\ref\05.TopIntegers.dll

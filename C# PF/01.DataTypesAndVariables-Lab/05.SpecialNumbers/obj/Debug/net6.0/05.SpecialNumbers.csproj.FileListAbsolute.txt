@@ -1,0 +1,14 @@
+D:\C# PF\01.DataTypesAndVariables-Lab\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.exe
+D:\C# PF\01.DataTypesAndVariables-Lab\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.deps.json
+D:\C# PF\01.DataTypesAndVariables-Lab\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.runtimeconfig.json
+D:\C# PF\01.DataTypesAndVariables-Lab\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.pdb
+D:\C# PF\01.DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\01.DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.AssemblyInfoInputs.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.AssemblyInfo.cs
+D:\C# PF\01.DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net6.0\refint\05.SpecialNumbers.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.pdb
+D:\C# PF\01.DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.genruntimeconfig.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net6.0\ref\05.SpecialNumbers.dll

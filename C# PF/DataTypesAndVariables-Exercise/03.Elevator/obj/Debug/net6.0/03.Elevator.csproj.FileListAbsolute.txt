@@ -1,0 +1,14 @@
+D:\C# PF\DataTypesAndVariables-Exercise\03.Elevator\bin\Debug\net6.0\03.Elevator.exe
+D:\C# PF\DataTypesAndVariables-Exercise\03.Elevator\bin\Debug\net6.0\03.Elevator.deps.json
+D:\C# PF\DataTypesAndVariables-Exercise\03.Elevator\bin\Debug\net6.0\03.Elevator.runtimeconfig.json
+D:\C# PF\DataTypesAndVariables-Exercise\03.Elevator\bin\Debug\net6.0\03.Elevator.dll
+D:\C# PF\DataTypesAndVariables-Exercise\03.Elevator\bin\Debug\net6.0\03.Elevator.pdb
+D:\C# PF\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\net6.0\03.Elevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\net6.0\03.Elevator.AssemblyInfoInputs.cache
+D:\C# PF\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\net6.0\03.Elevator.AssemblyInfo.cs
+D:\C# PF\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\net6.0\03.Elevator.csproj.CoreCompileInputs.cache
+D:\C# PF\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\net6.0\03.Elevator.dll
+D:\C# PF\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\net6.0\refint\03.Elevator.dll
+D:\C# PF\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\net6.0\03.Elevator.pdb
+D:\C# PF\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\net6.0\03.Elevator.genruntimeconfig.cache
+D:\C# PF\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\net6.0\ref\03.Elevator.dll

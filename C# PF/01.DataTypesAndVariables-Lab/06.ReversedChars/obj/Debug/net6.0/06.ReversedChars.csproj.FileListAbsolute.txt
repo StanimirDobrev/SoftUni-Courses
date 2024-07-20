@@ -1,0 +1,14 @@
+D:\C# PF\01.DataTypesAndVariables-Lab\06.ReversedChars\bin\Debug\net6.0\06.ReversedChars.exe
+D:\C# PF\01.DataTypesAndVariables-Lab\06.ReversedChars\bin\Debug\net6.0\06.ReversedChars.deps.json
+D:\C# PF\01.DataTypesAndVariables-Lab\06.ReversedChars\bin\Debug\net6.0\06.ReversedChars.runtimeconfig.json
+D:\C# PF\01.DataTypesAndVariables-Lab\06.ReversedChars\bin\Debug\net6.0\06.ReversedChars.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\06.ReversedChars\bin\Debug\net6.0\06.ReversedChars.pdb
+D:\C# PF\01.DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\net6.0\06.ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\01.DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\net6.0\06.ReversedChars.AssemblyInfoInputs.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\net6.0\06.ReversedChars.AssemblyInfo.cs
+D:\C# PF\01.DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\net6.0\06.ReversedChars.csproj.CoreCompileInputs.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\net6.0\06.ReversedChars.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\net6.0\refint\06.ReversedChars.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\net6.0\06.ReversedChars.pdb
+D:\C# PF\01.DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\net6.0\06.ReversedChars.genruntimeconfig.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\net6.0\ref\06.ReversedChars.dll

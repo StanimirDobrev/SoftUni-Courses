@@ -1,0 +1,14 @@
+D:\C# PB\02.ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\net6.0\02.GreaterNumber.exe
+D:\C# PB\02.ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\net6.0\02.GreaterNumber.deps.json
+D:\C# PB\02.ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\net6.0\02.GreaterNumber.runtimeconfig.json
+D:\C# PB\02.ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\net6.0\02.GreaterNumber.dll
+D:\C# PB\02.ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\net6.0\02.GreaterNumber.pdb
+D:\C# PB\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.AssemblyInfoInputs.cache
+D:\C# PB\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.AssemblyInfo.cs
+D:\C# PB\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.csproj.CoreCompileInputs.cache
+D:\C# PB\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.dll
+D:\C# PB\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\refint\02.GreaterNumber.dll
+D:\C# PB\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.pdb
+D:\C# PB\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.genruntimeconfig.cache
+D:\C# PB\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\ref\02.GreaterNumber.dll

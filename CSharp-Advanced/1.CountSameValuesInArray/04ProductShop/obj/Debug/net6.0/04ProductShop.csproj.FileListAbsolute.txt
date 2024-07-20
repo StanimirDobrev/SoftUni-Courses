@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\04ProductShop\bin\Debug\net6.0\04ProductShop.exe
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\04ProductShop\bin\Debug\net6.0\04ProductShop.deps.json
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\04ProductShop\bin\Debug\net6.0\04ProductShop.runtimeconfig.json
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\04ProductShop\bin\Debug\net6.0\04ProductShop.dll
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\04ProductShop\bin\Debug\net6.0\04ProductShop.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\04ProductShop\obj\Debug\net6.0\04ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\04ProductShop\obj\Debug\net6.0\04ProductShop.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\04ProductShop\obj\Debug\net6.0\04ProductShop.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\04ProductShop\obj\Debug\net6.0\04ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\04ProductShop\obj\Debug\net6.0\04ProductShop.dll
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\04ProductShop\obj\Debug\net6.0\refint\04ProductShop.dll
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\04ProductShop\obj\Debug\net6.0\04ProductShop.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\04ProductShop\obj\Debug\net6.0\04ProductShop.genruntimeconfig.cache
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\04ProductShop\obj\Debug\net6.0\ref\04ProductShop.dll

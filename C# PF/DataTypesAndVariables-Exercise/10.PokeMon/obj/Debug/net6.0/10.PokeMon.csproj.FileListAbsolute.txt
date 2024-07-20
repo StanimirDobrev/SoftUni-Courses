@@ -1,0 +1,14 @@
+D:\C# PF\DataTypesAndVariables-Exercise\10.PokeMon\bin\Debug\net6.0\10.PokeMon.exe
+D:\C# PF\DataTypesAndVariables-Exercise\10.PokeMon\bin\Debug\net6.0\10.PokeMon.deps.json
+D:\C# PF\DataTypesAndVariables-Exercise\10.PokeMon\bin\Debug\net6.0\10.PokeMon.runtimeconfig.json
+D:\C# PF\DataTypesAndVariables-Exercise\10.PokeMon\bin\Debug\net6.0\10.PokeMon.dll
+D:\C# PF\DataTypesAndVariables-Exercise\10.PokeMon\bin\Debug\net6.0\10.PokeMon.pdb
+D:\C# PF\DataTypesAndVariables-Exercise\10.PokeMon\obj\Debug\net6.0\10.PokeMon.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\DataTypesAndVariables-Exercise\10.PokeMon\obj\Debug\net6.0\10.PokeMon.AssemblyInfoInputs.cache
+D:\C# PF\DataTypesAndVariables-Exercise\10.PokeMon\obj\Debug\net6.0\10.PokeMon.AssemblyInfo.cs
+D:\C# PF\DataTypesAndVariables-Exercise\10.PokeMon\obj\Debug\net6.0\10.PokeMon.csproj.CoreCompileInputs.cache
+D:\C# PF\DataTypesAndVariables-Exercise\10.PokeMon\obj\Debug\net6.0\10.PokeMon.dll
+D:\C# PF\DataTypesAndVariables-Exercise\10.PokeMon\obj\Debug\net6.0\refint\10.PokeMon.dll
+D:\C# PF\DataTypesAndVariables-Exercise\10.PokeMon\obj\Debug\net6.0\10.PokeMon.pdb
+D:\C# PF\DataTypesAndVariables-Exercise\10.PokeMon\obj\Debug\net6.0\10.PokeMon.genruntimeconfig.cache
+D:\C# PF\DataTypesAndVariables-Exercise\10.PokeMon\obj\Debug\net6.0\ref\10.PokeMon.dll

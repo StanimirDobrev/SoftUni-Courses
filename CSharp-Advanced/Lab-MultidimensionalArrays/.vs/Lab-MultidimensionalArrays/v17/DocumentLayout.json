@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Lab-MultidimensionalArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{738E441A-295E-4A2D-B687-B456E7CCDF4B}|1.SumMatrixElements\\1.SumMatrixElements.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\lab-multidimensionalarrays\\1.summatrixelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738E441A-295E-4A2D-B687-B456E7CCDF4B}|1.SumMatrixElements\\1.SumMatrixElements.csproj|solutionrelative:1.summatrixelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EAE8AF-05CF-4D59-A7A0-8C01461E110C}|6.JaggedArrayModification\\6.JaggedArrayModification.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\lab-multidimensionalarrays\\6.jaggedarraymodification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EAE8AF-05CF-4D59-A7A0-8C01461E110C}|6.JaggedArrayModification\\6.JaggedArrayModification.csproj|solutionrelative:6.jaggedarraymodification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AD4A18-2BDB-43E1-8CCB-765AEEF67BA2}|5.SquareWithMaximumSum\\5.SquareWithMaximumSum.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\lab-multidimensionalarrays\\5.squarewithmaximumsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AD4A18-2BDB-43E1-8CCB-765AEEF67BA2}|5.SquareWithMaximumSum\\5.SquareWithMaximumSum.csproj|solutionrelative:5.squarewithmaximumsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE62017-9FF8-47AF-B566-2E6FA1CC64C9}|4.SymbolInMatrix\\4.SymbolInMatrix.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\lab-multidimensionalarrays\\4.symbolinmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE62017-9FF8-47AF-B566-2E6FA1CC64C9}|4.SymbolInMatrix\\4.SymbolInMatrix.csproj|solutionrelative:4.symbolinmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC18D2C-B817-482E-ABD3-BA90967D88AD}|3.PrimaryDiagonal\\3.PrimaryDiagonal.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\lab-multidimensionalarrays\\3.primarydiagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC18D2C-B817-482E-ABD3-BA90967D88AD}|3.PrimaryDiagonal\\3.PrimaryDiagonal.csproj|solutionrelative:3.primarydiagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D7FF09-E866-4055-96D6-9850BA081672}|2.SumMatrixColumns\\2.SumMatrixColumns.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\lab-multidimensionalarrays\\2.summatrixcolumns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D7FF09-E866-4055-96D6-9850BA081672}|2.SumMatrixColumns\\2.SumMatrixColumns.csproj|solutionrelative:2.summatrixcolumns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Lab-MultidimensionalArrays\\6.JaggedArrayModification\\Program.cs",
+              "RelativeDocumentMoniker": "6.JaggedArrayModification\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Lab-MultidimensionalArrays\\6.JaggedArrayModification\\Program.cs",
+              "RelativeToolTip": "6.JaggedArrayModification\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:39:52.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Lab-MultidimensionalArrays\\5.SquareWithMaximumSum\\Program.cs",
+              "RelativeDocumentMoniker": "5.SquareWithMaximumSum\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Lab-MultidimensionalArrays\\5.SquareWithMaximumSum\\Program.cs",
+              "RelativeToolTip": "5.SquareWithMaximumSum\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:25:07.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Lab-MultidimensionalArrays\\4.SymbolInMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "4.SymbolInMatrix\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Lab-MultidimensionalArrays\\4.SymbolInMatrix\\Program.cs",
+              "RelativeToolTip": "4.SymbolInMatrix\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:59:34.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Lab-MultidimensionalArrays\\3.PrimaryDiagonal\\Program.cs",
+              "RelativeDocumentMoniker": "3.PrimaryDiagonal\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Lab-MultidimensionalArrays\\3.PrimaryDiagonal\\Program.cs",
+              "RelativeToolTip": "3.PrimaryDiagonal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:47:29.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Lab-MultidimensionalArrays\\2.SumMatrixColumns\\Program.cs",
+              "RelativeDocumentMoniker": "2.SumMatrixColumns\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Lab-MultidimensionalArrays\\2.SumMatrixColumns\\Program.cs",
+              "RelativeToolTip": "2.SumMatrixColumns\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:16:00.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Lab-MultidimensionalArrays\\1.SumMatrixElements\\Program.cs",
+              "RelativeDocumentMoniker": "1.SumMatrixElements\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\Lab-MultidimensionalArrays\\1.SumMatrixElements\\Program.cs*",
+              "RelativeToolTip": "1.SumMatrixElements\\Program.cs*",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:47:12.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

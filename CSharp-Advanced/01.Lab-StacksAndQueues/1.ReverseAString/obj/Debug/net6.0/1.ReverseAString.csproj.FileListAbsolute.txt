@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\1.ReverseAString\bin\Debug\net6.0\1.ReverseAString.exe
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\1.ReverseAString\bin\Debug\net6.0\1.ReverseAString.deps.json
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\1.ReverseAString\bin\Debug\net6.0\1.ReverseAString.runtimeconfig.json
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\1.ReverseAString\bin\Debug\net6.0\1.ReverseAString.dll
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\1.ReverseAString\bin\Debug\net6.0\1.ReverseAString.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\1.ReverseAString\obj\Debug\net6.0\1.ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\1.ReverseAString\obj\Debug\net6.0\1.ReverseAString.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\1.ReverseAString\obj\Debug\net6.0\1.ReverseAString.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\1.ReverseAString\obj\Debug\net6.0\1.ReverseAString.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\1.ReverseAString\obj\Debug\net6.0\1.ReverseAString.dll
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\1.ReverseAString\obj\Debug\net6.0\refint\1.ReverseAString.dll
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\1.ReverseAString\obj\Debug\net6.0\1.ReverseAString.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\1.ReverseAString\obj\Debug\net6.0\1.ReverseAString.genruntimeconfig.cache
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\1.ReverseAString\obj\Debug\net6.0\ref\1.ReverseAString.dll

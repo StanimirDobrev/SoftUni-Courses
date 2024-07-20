@@ -1,0 +1,14 @@
+D:\C# PB\02.ConditionalStatements-Lab\05.Number100To200\bin\Debug\net6.0\05.Number100To200.exe
+D:\C# PB\02.ConditionalStatements-Lab\05.Number100To200\bin\Debug\net6.0\05.Number100To200.deps.json
+D:\C# PB\02.ConditionalStatements-Lab\05.Number100To200\bin\Debug\net6.0\05.Number100To200.runtimeconfig.json
+D:\C# PB\02.ConditionalStatements-Lab\05.Number100To200\bin\Debug\net6.0\05.Number100To200.dll
+D:\C# PB\02.ConditionalStatements-Lab\05.Number100To200\bin\Debug\net6.0\05.Number100To200.pdb
+D:\C# PB\02.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\05.Number100To200.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\02.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\05.Number100To200.AssemblyInfoInputs.cache
+D:\C# PB\02.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\05.Number100To200.AssemblyInfo.cs
+D:\C# PB\02.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\05.Number100To200.csproj.CoreCompileInputs.cache
+D:\C# PB\02.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\05.Number100To200.dll
+D:\C# PB\02.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\refint\05.Number100To200.dll
+D:\C# PB\02.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\05.Number100To200.pdb
+D:\C# PB\02.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\05.Number100To200.genruntimeconfig.cache
+D:\C# PB\02.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\ref\05.Number100To200.dll

@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DDDC54-1C64-4894-8A43-7BCF19A41165}|Shapes\\Shapes.csproj|c:\\users\\pc\\source\\repos\\c# oop\\polymorphism-lab\\shapes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DDDC54-1C64-4894-8A43-7BCF19A41165}|Shapes\\Shapes.csproj|solutionrelative:shapes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DDDC54-1C64-4894-8A43-7BCF19A41165}|Shapes\\Shapes.csproj|c:\\users\\pc\\source\\repos\\c# oop\\polymorphism-lab\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DDDC54-1C64-4894-8A43-7BCF19A41165}|Shapes\\Shapes.csproj|solutionrelative:shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DDDC54-1C64-4894-8A43-7BCF19A41165}|Shapes\\Shapes.csproj|c:\\users\\pc\\source\\repos\\c# oop\\polymorphism-lab\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DDDC54-1C64-4894-8A43-7BCF19A41165}|Shapes\\Shapes.csproj|solutionrelative:shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DDDC54-1C64-4894-8A43-7BCF19A41165}|Shapes\\Shapes.csproj|c:\\users\\pc\\source\\repos\\c# oop\\polymorphism-lab\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DDDC54-1C64-4894-8A43-7BCF19A41165}|Shapes\\Shapes.csproj|solutionrelative:shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91583049-ED89-4AEC-9129-F023124CABF7}|Animals\\Animals.csproj|c:\\users\\pc\\source\\repos\\c# oop\\polymorphism-lab\\animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91583049-ED89-4AEC-9129-F023124CABF7}|Animals\\Animals.csproj|solutionrelative:animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91583049-ED89-4AEC-9129-F023124CABF7}|Animals\\Animals.csproj|c:\\users\\pc\\source\\repos\\c# oop\\polymorphism-lab\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91583049-ED89-4AEC-9129-F023124CABF7}|Animals\\Animals.csproj|solutionrelative:animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91583049-ED89-4AEC-9129-F023124CABF7}|Animals\\Animals.csproj|c:\\users\\pc\\source\\repos\\c# oop\\polymorphism-lab\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91583049-ED89-4AEC-9129-F023124CABF7}|Animals\\Animals.csproj|solutionrelative:animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91583049-ED89-4AEC-9129-F023124CABF7}|Animals\\Animals.csproj|c:\\users\\pc\\source\\repos\\c# oop\\polymorphism-lab\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91583049-ED89-4AEC-9129-F023124CABF7}|Animals\\Animals.csproj|solutionrelative:animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F3B187-50BC-4A87-9220-F50863DF9F9F}|Operations\\Operations.csproj|c:\\users\\pc\\source\\repos\\c# oop\\polymorphism-lab\\operations\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F3B187-50BC-4A87-9220-F50863DF9F9F}|Operations\\Operations.csproj|solutionrelative:operations\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F3B187-50BC-4A87-9220-F50863DF9F9F}|Operations\\Operations.csproj|c:\\users\\pc\\source\\repos\\c# oop\\polymorphism-lab\\operations\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F3B187-50BC-4A87-9220-F50863DF9F9F}|Operations\\Operations.csproj|solutionrelative:operations\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "Shapes\\Rectangle.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T21:06:52.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Circle.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Shapes\\Circle.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:58:58.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Shapes\\Shape.cs",
+              "RelativeDocumentMoniker": "Shapes\\Shape.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Shapes\\Shape.cs",
+              "RelativeToolTip": "Shapes\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:53:58.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Shapes\\StartUp.cs",
+              "RelativeDocumentMoniker": "Shapes\\StartUp.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Shapes\\StartUp.cs",
+              "RelativeToolTip": "Shapes\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:52:47.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Animals\\Dog.cs",
+              "RelativeDocumentMoniker": "Animals\\Dog.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Animals\\Dog.cs",
+              "RelativeToolTip": "Animals\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:06:04.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Animals\\Cat.cs",
+              "RelativeDocumentMoniker": "Animals\\Cat.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Animals\\Cat.cs",
+              "RelativeToolTip": "Animals\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:59:39.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "Animals\\Animal.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Animals\\Animal.cs",
+              "RelativeToolTip": "Animals\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:57:37.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Animals\\StartUp.cs",
+              "RelativeDocumentMoniker": "Animals\\StartUp.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Animals\\StartUp.cs",
+              "RelativeToolTip": "Animals\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:57:14.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Operations\\MathOperations.cs",
+              "RelativeDocumentMoniker": "Operations\\MathOperations.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Operations\\MathOperations.cs",
+              "RelativeToolTip": "Operations\\MathOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:51:18.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Operations\\StartUp.cs",
+              "RelativeDocumentMoniker": "Operations\\StartUp.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\Polymorphism-Lab\\Operations\\StartUp.cs",
+              "RelativeToolTip": "Operations\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:49:22.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

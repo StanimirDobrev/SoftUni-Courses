@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\net6.0\03.CountUppercaseWords.exe
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\net6.0\03.CountUppercaseWords.deps.json
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\net6.0\03.CountUppercaseWords.runtimeconfig.json
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\net6.0\03.CountUppercaseWords.dll
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\net6.0\03.CountUppercaseWords.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\03.CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\03.CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\03.CountUppercaseWords.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\03.CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\03.CountUppercaseWords.dll
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\refint\03.CountUppercaseWords.dll
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\03.CountUppercaseWords.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\03.CountUppercaseWords.genruntimeconfig.cache
+C:\Users\PC\source\repos\CSharp-Advanced\FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\ref\03.CountUppercaseWords.dll

@@ -1,0 +1,14 @@
+D:\C# PB\ForLoop-Lab\05.CharacterSequence\bin\Debug\net6.0\05.CharacterSequence.exe
+D:\C# PB\ForLoop-Lab\05.CharacterSequence\bin\Debug\net6.0\05.CharacterSequence.deps.json
+D:\C# PB\ForLoop-Lab\05.CharacterSequence\bin\Debug\net6.0\05.CharacterSequence.runtimeconfig.json
+D:\C# PB\ForLoop-Lab\05.CharacterSequence\bin\Debug\net6.0\05.CharacterSequence.dll
+D:\C# PB\ForLoop-Lab\05.CharacterSequence\bin\Debug\net6.0\05.CharacterSequence.pdb
+D:\C# PB\ForLoop-Lab\05.CharacterSequence\obj\Debug\net6.0\05.CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\ForLoop-Lab\05.CharacterSequence\obj\Debug\net6.0\05.CharacterSequence.AssemblyInfoInputs.cache
+D:\C# PB\ForLoop-Lab\05.CharacterSequence\obj\Debug\net6.0\05.CharacterSequence.AssemblyInfo.cs
+D:\C# PB\ForLoop-Lab\05.CharacterSequence\obj\Debug\net6.0\05.CharacterSequence.csproj.CoreCompileInputs.cache
+D:\C# PB\ForLoop-Lab\05.CharacterSequence\obj\Debug\net6.0\05.CharacterSequence.dll
+D:\C# PB\ForLoop-Lab\05.CharacterSequence\obj\Debug\net6.0\refint\05.CharacterSequence.dll
+D:\C# PB\ForLoop-Lab\05.CharacterSequence\obj\Debug\net6.0\05.CharacterSequence.pdb
+D:\C# PB\ForLoop-Lab\05.CharacterSequence\obj\Debug\net6.0\05.CharacterSequence.genruntimeconfig.cache
+D:\C# PB\ForLoop-Lab\05.CharacterSequence\obj\Debug\net6.0\ref\05.CharacterSequence.dll

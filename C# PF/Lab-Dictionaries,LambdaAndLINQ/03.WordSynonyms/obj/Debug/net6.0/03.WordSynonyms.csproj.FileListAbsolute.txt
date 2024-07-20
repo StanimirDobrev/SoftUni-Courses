@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.exe
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.deps.json
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.runtimeconfig.json
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.dll
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.pdb
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.AssemblyInfo.cs
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.dll
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\03.WordSynonyms\obj\Debug\net6.0\refint\03.WordSynonyms.dll
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.pdb
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.genruntimeconfig.cache
+C:\Users\PC\source\repos\Lab-Dictionaries,LambdaAndLINQ\03.WordSynonyms\obj\Debug\net6.0\ref\03.WordSynonyms.dll

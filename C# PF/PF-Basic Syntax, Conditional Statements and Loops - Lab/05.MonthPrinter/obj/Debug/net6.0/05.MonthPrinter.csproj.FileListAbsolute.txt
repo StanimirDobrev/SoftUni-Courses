@@ -1,0 +1,14 @@
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\05.MonthPrinter\bin\Debug\net6.0\05.MonthPrinter.exe
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\05.MonthPrinter\bin\Debug\net6.0\05.MonthPrinter.deps.json
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\05.MonthPrinter\bin\Debug\net6.0\05.MonthPrinter.runtimeconfig.json
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\05.MonthPrinter\bin\Debug\net6.0\05.MonthPrinter.dll
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\05.MonthPrinter\bin\Debug\net6.0\05.MonthPrinter.pdb
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.AssemblyInfoInputs.cache
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.AssemblyInfo.cs
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.csproj.CoreCompileInputs.cache
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.dll
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\05.MonthPrinter\obj\Debug\net6.0\refint\05.MonthPrinter.dll
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.pdb
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.genruntimeconfig.cache
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\05.MonthPrinter\obj\Debug\net6.0\ref\05.MonthPrinter.dll

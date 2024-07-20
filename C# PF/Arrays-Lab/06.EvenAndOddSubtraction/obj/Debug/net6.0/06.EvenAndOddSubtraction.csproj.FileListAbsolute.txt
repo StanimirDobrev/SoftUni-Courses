@@ -1,0 +1,14 @@
+D:\C# PF\Arrays-Lab\06.EvenAndOddSubtraction\bin\Debug\net6.0\06.EvenAndOddSubtraction.exe
+D:\C# PF\Arrays-Lab\06.EvenAndOddSubtraction\bin\Debug\net6.0\06.EvenAndOddSubtraction.deps.json
+D:\C# PF\Arrays-Lab\06.EvenAndOddSubtraction\bin\Debug\net6.0\06.EvenAndOddSubtraction.runtimeconfig.json
+D:\C# PF\Arrays-Lab\06.EvenAndOddSubtraction\bin\Debug\net6.0\06.EvenAndOddSubtraction.dll
+D:\C# PF\Arrays-Lab\06.EvenAndOddSubtraction\bin\Debug\net6.0\06.EvenAndOddSubtraction.pdb
+D:\C# PF\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.AssemblyInfoInputs.cache
+D:\C# PF\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.AssemblyInfo.cs
+D:\C# PF\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+D:\C# PF\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.dll
+D:\C# PF\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\refint\06.EvenAndOddSubtraction.dll
+D:\C# PF\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.pdb
+D:\C# PF\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.genruntimeconfig.cache
+D:\C# PF\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\ref\06.EvenAndOddSubtraction.dll

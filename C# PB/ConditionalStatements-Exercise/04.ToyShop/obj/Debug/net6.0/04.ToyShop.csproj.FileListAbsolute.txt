@@ -1,0 +1,14 @@
+D:\C# PB\ConditionalStatements-Exercise\04.ToyShop\bin\Debug\net6.0\04.ToyShop.exe
+D:\C# PB\ConditionalStatements-Exercise\04.ToyShop\bin\Debug\net6.0\04.ToyShop.deps.json
+D:\C# PB\ConditionalStatements-Exercise\04.ToyShop\bin\Debug\net6.0\04.ToyShop.runtimeconfig.json
+D:\C# PB\ConditionalStatements-Exercise\04.ToyShop\bin\Debug\net6.0\04.ToyShop.dll
+D:\C# PB\ConditionalStatements-Exercise\04.ToyShop\bin\Debug\net6.0\04.ToyShop.pdb
+D:\C# PB\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net6.0\04.ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net6.0\04.ToyShop.AssemblyInfoInputs.cache
+D:\C# PB\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net6.0\04.ToyShop.AssemblyInfo.cs
+D:\C# PB\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net6.0\04.ToyShop.csproj.CoreCompileInputs.cache
+D:\C# PB\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net6.0\04.ToyShop.dll
+D:\C# PB\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net6.0\refint\04.ToyShop.dll
+D:\C# PB\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net6.0\04.ToyShop.pdb
+D:\C# PB\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net6.0\04.ToyShop.genruntimeconfig.cache
+D:\C# PB\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net6.0\ref\04.ToyShop.dll

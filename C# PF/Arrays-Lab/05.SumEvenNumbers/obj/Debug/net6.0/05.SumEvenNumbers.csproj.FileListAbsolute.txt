@@ -1,0 +1,14 @@
+D:\C# PF\Arrays-Lab\05.SumEvenNumbers\bin\Debug\net6.0\05.SumEvenNumbers.exe
+D:\C# PF\Arrays-Lab\05.SumEvenNumbers\bin\Debug\net6.0\05.SumEvenNumbers.deps.json
+D:\C# PF\Arrays-Lab\05.SumEvenNumbers\bin\Debug\net6.0\05.SumEvenNumbers.runtimeconfig.json
+D:\C# PF\Arrays-Lab\05.SumEvenNumbers\bin\Debug\net6.0\05.SumEvenNumbers.dll
+D:\C# PF\Arrays-Lab\05.SumEvenNumbers\bin\Debug\net6.0\05.SumEvenNumbers.pdb
+D:\C# PF\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers.AssemblyInfoInputs.cache
+D:\C# PF\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers.AssemblyInfo.cs
+D:\C# PF\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers.csproj.CoreCompileInputs.cache
+D:\C# PF\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers.dll
+D:\C# PF\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\refint\05.SumEvenNumbers.dll
+D:\C# PF\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers.pdb
+D:\C# PF\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers.genruntimeconfig.cache
+D:\C# PF\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\ref\05.SumEvenNumbers.dll

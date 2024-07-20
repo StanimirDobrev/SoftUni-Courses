@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem2–MirrorWords\bin\Debug\net6.0\Problem2–MirrorWords.exe
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem2–MirrorWords\bin\Debug\net6.0\Problem2–MirrorWords.deps.json
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem2–MirrorWords\bin\Debug\net6.0\Problem2–MirrorWords.runtimeconfig.json
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem2–MirrorWords\bin\Debug\net6.0\Problem2–MirrorWords.dll
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem2–MirrorWords\bin\Debug\net6.0\Problem2–MirrorWords.pdb
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem2–MirrorWords\obj\Debug\net6.0\Problem2–MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem2–MirrorWords\obj\Debug\net6.0\Problem2–MirrorWords.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem2–MirrorWords\obj\Debug\net6.0\Problem2–MirrorWords.AssemblyInfo.cs
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem2–MirrorWords\obj\Debug\net6.0\Problem2–MirrorWords.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem2–MirrorWords\obj\Debug\net6.0\Problem2–MirrorWords.dll
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem2–MirrorWords\obj\Debug\net6.0\refint\Problem2–MirrorWords.dll
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem2–MirrorWords\obj\Debug\net6.0\Problem2–MirrorWords.pdb
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem2–MirrorWords\obj\Debug\net6.0\Problem2–MirrorWords.genruntimeconfig.cache
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem2–MirrorWords\obj\Debug\net6.0\ref\Problem2–MirrorWords.dll

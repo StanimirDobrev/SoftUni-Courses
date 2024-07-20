@@ -1,0 +1,14 @@
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\02.Division\bin\Debug\net6.0\02.Division.exe
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\02.Division\bin\Debug\net6.0\02.Division.deps.json
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\02.Division\bin\Debug\net6.0\02.Division.runtimeconfig.json
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\02.Division\bin\Debug\net6.0\02.Division.dll
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\02.Division\bin\Debug\net6.0\02.Division.pdb
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\02.Division\obj\Debug\net6.0\02.Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\02.Division\obj\Debug\net6.0\02.Division.AssemblyInfoInputs.cache
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\02.Division\obj\Debug\net6.0\02.Division.AssemblyInfo.cs
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\02.Division\obj\Debug\net6.0\02.Division.csproj.CoreCompileInputs.cache
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\02.Division\obj\Debug\net6.0\02.Division.dll
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\02.Division\obj\Debug\net6.0\refint\02.Division.dll
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\02.Division\obj\Debug\net6.0\02.Division.pdb
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\02.Division\obj\Debug\net6.0\02.Division.genruntimeconfig.cache
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\02.Division\obj\Debug\net6.0\ref\02.Division.dll

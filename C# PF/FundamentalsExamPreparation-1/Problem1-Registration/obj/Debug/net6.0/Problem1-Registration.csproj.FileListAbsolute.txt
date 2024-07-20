@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1-Registration\bin\Debug\net6.0\Problem1-Registration.exe
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1-Registration\bin\Debug\net6.0\Problem1-Registration.deps.json
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1-Registration\bin\Debug\net6.0\Problem1-Registration.runtimeconfig.json
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1-Registration\bin\Debug\net6.0\Problem1-Registration.dll
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1-Registration\bin\Debug\net6.0\Problem1-Registration.pdb
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1-Registration\obj\Debug\net6.0\Problem1-Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1-Registration\obj\Debug\net6.0\Problem1-Registration.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1-Registration\obj\Debug\net6.0\Problem1-Registration.AssemblyInfo.cs
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1-Registration\obj\Debug\net6.0\Problem1-Registration.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1-Registration\obj\Debug\net6.0\Problem1-Registration.dll
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1-Registration\obj\Debug\net6.0\refint\Problem1-Registration.dll
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1-Registration\obj\Debug\net6.0\Problem1-Registration.pdb
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1-Registration\obj\Debug\net6.0\Problem1-Registration.genruntimeconfig.cache
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem1-Registration\obj\Debug\net6.0\ref\Problem1-Registration.dll

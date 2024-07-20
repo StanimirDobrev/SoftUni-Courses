@@ -1,0 +1,14 @@
+D:\C# PB\ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net6.0\09.LeftAndRightSum.exe
+D:\C# PB\ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net6.0\09.LeftAndRightSum.deps.json
+D:\C# PB\ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net6.0\09.LeftAndRightSum.runtimeconfig.json
+D:\C# PB\ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net6.0\09.LeftAndRightSum.dll
+D:\C# PB\ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net6.0\09.LeftAndRightSum.pdb
+D:\C# PB\ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.AssemblyInfoInputs.cache
+D:\C# PB\ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.AssemblyInfo.cs
+D:\C# PB\ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.csproj.CoreCompileInputs.cache
+D:\C# PB\ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.dll
+D:\C# PB\ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\refint\09.LeftAndRightSum.dll
+D:\C# PB\ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.pdb
+D:\C# PB\ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.genruntimeconfig.cache
+D:\C# PB\ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\ref\09.LeftAndRightSum.dll

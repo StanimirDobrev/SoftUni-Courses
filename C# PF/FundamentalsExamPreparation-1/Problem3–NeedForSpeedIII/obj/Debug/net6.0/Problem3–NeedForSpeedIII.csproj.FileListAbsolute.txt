@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem3–NeedForSpeedIII\bin\Debug\net6.0\Problem3–NeedForSpeedIII.exe
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem3–NeedForSpeedIII\bin\Debug\net6.0\Problem3–NeedForSpeedIII.deps.json
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem3–NeedForSpeedIII\bin\Debug\net6.0\Problem3–NeedForSpeedIII.runtimeconfig.json
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem3–NeedForSpeedIII\bin\Debug\net6.0\Problem3–NeedForSpeedIII.dll
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem3–NeedForSpeedIII\bin\Debug\net6.0\Problem3–NeedForSpeedIII.pdb
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem3–NeedForSpeedIII\obj\Debug\net6.0\Problem3–NeedForSpeedIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem3–NeedForSpeedIII\obj\Debug\net6.0\Problem3–NeedForSpeedIII.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem3–NeedForSpeedIII\obj\Debug\net6.0\Problem3–NeedForSpeedIII.AssemblyInfo.cs
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem3–NeedForSpeedIII\obj\Debug\net6.0\Problem3–NeedForSpeedIII.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem3–NeedForSpeedIII\obj\Debug\net6.0\Problem3–NeedForSpeedIII.dll
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem3–NeedForSpeedIII\obj\Debug\net6.0\refint\Problem3–NeedForSpeedIII.dll
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem3–NeedForSpeedIII\obj\Debug\net6.0\Problem3–NeedForSpeedIII.pdb
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem3–NeedForSpeedIII\obj\Debug\net6.0\Problem3–NeedForSpeedIII.genruntimeconfig.cache
+C:\Users\PC\source\repos\FundamentalsExamPreparation-1\Problem3–NeedForSpeedIII\obj\Debug\net6.0\ref\Problem3–NeedForSpeedIII.dll

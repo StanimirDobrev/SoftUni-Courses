@@ -1,0 +1,14 @@
+D:\C# PB\ExamTraining\01.FruitMarket\bin\Debug\net6.0\01.FruitMarket.exe
+D:\C# PB\ExamTraining\01.FruitMarket\bin\Debug\net6.0\01.FruitMarket.deps.json
+D:\C# PB\ExamTraining\01.FruitMarket\bin\Debug\net6.0\01.FruitMarket.runtimeconfig.json
+D:\C# PB\ExamTraining\01.FruitMarket\bin\Debug\net6.0\01.FruitMarket.dll
+D:\C# PB\ExamTraining\01.FruitMarket\bin\Debug\net6.0\01.FruitMarket.pdb
+D:\C# PB\ExamTraining\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\ExamTraining\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.AssemblyInfoInputs.cache
+D:\C# PB\ExamTraining\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.AssemblyInfo.cs
+D:\C# PB\ExamTraining\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.csproj.CoreCompileInputs.cache
+D:\C# PB\ExamTraining\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.dll
+D:\C# PB\ExamTraining\01.FruitMarket\obj\Debug\net6.0\refint\01.FruitMarket.dll
+D:\C# PB\ExamTraining\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.pdb
+D:\C# PB\ExamTraining\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.genruntimeconfig.cache
+D:\C# PB\ExamTraining\01.FruitMarket\obj\Debug\net6.0\ref\01.FruitMarket.dll

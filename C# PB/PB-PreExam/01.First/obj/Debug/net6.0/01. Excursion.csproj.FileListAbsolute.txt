@@ -1,0 +1,14 @@
+D:\C# PB\PB-PreExam\01.First\bin\Debug\net6.0\01. Excursion.exe
+D:\C# PB\PB-PreExam\01.First\bin\Debug\net6.0\01. Excursion.deps.json
+D:\C# PB\PB-PreExam\01.First\bin\Debug\net6.0\01. Excursion.runtimeconfig.json
+D:\C# PB\PB-PreExam\01.First\bin\Debug\net6.0\01. Excursion.dll
+D:\C# PB\PB-PreExam\01.First\bin\Debug\net6.0\01. Excursion.pdb
+D:\C# PB\PB-PreExam\01.First\obj\Debug\net6.0\01. Excursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\PB-PreExam\01.First\obj\Debug\net6.0\01. Excursion.AssemblyInfoInputs.cache
+D:\C# PB\PB-PreExam\01.First\obj\Debug\net6.0\01. Excursion.AssemblyInfo.cs
+D:\C# PB\PB-PreExam\01.First\obj\Debug\net6.0\01. Excursion.csproj.CoreCompileInputs.cache
+D:\C# PB\PB-PreExam\01.First\obj\Debug\net6.0\01. Excursion.dll
+D:\C# PB\PB-PreExam\01.First\obj\Debug\net6.0\refint\01. Excursion.dll
+D:\C# PB\PB-PreExam\01.First\obj\Debug\net6.0\01. Excursion.pdb
+D:\C# PB\PB-PreExam\01.First\obj\Debug\net6.0\01. Excursion.genruntimeconfig.cache
+D:\C# PB\PB-PreExam\01.First\obj\Debug\net6.0\ref\01. Excursion.dll

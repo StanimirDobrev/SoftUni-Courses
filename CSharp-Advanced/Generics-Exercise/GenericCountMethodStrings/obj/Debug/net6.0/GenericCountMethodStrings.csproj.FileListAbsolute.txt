@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CSharp-Advanced\Generics-Exercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.exe
+C:\Users\PC\source\repos\CSharp-Advanced\Generics-Exercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.deps.json
+C:\Users\PC\source\repos\CSharp-Advanced\Generics-Exercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.runtimeconfig.json
+C:\Users\PC\source\repos\CSharp-Advanced\Generics-Exercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.dll
+C:\Users\PC\source\repos\CSharp-Advanced\Generics-Exercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CSharp-Advanced\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharp-Advanced\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.dll
+C:\Users\PC\source\repos\CSharp-Advanced\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\refint\GenericCountMethodStrings.dll
+C:\Users\PC\source\repos\CSharp-Advanced\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.genruntimeconfig.cache
+C:\Users\PC\source\repos\CSharp-Advanced\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\ref\GenericCountMethodStrings.dll

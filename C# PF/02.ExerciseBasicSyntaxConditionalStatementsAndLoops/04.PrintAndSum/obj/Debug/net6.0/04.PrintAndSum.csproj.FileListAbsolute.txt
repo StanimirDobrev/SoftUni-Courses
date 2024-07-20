@@ -1,0 +1,14 @@
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\04.PrintAndSum\bin\Debug\net6.0\04.PrintAndSum.exe
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\04.PrintAndSum\bin\Debug\net6.0\04.PrintAndSum.deps.json
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\04.PrintAndSum\bin\Debug\net6.0\04.PrintAndSum.runtimeconfig.json
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\04.PrintAndSum\bin\Debug\net6.0\04.PrintAndSum.dll
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\04.PrintAndSum\bin\Debug\net6.0\04.PrintAndSum.pdb
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\04.PrintAndSum\obj\Debug\net6.0\04.PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\04.PrintAndSum\obj\Debug\net6.0\04.PrintAndSum.AssemblyInfoInputs.cache
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\04.PrintAndSum\obj\Debug\net6.0\04.PrintAndSum.AssemblyInfo.cs
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\04.PrintAndSum\obj\Debug\net6.0\04.PrintAndSum.csproj.CoreCompileInputs.cache
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\04.PrintAndSum\obj\Debug\net6.0\04.PrintAndSum.dll
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\04.PrintAndSum\obj\Debug\net6.0\refint\04.PrintAndSum.dll
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\04.PrintAndSum\obj\Debug\net6.0\04.PrintAndSum.pdb
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\04.PrintAndSum\obj\Debug\net6.0\04.PrintAndSum.genruntimeconfig.cache
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\04.PrintAndSum\obj\Debug\net6.0\ref\04.PrintAndSum.dll

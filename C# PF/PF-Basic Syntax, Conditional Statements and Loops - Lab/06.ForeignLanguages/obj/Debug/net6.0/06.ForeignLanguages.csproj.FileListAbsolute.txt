@@ -1,0 +1,14 @@
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\06.ForeignLanguages\bin\Debug\net6.0\06.ForeignLanguages.exe
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\06.ForeignLanguages\bin\Debug\net6.0\06.ForeignLanguages.deps.json
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\06.ForeignLanguages\bin\Debug\net6.0\06.ForeignLanguages.runtimeconfig.json
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\06.ForeignLanguages\bin\Debug\net6.0\06.ForeignLanguages.dll
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\06.ForeignLanguages\bin\Debug\net6.0\06.ForeignLanguages.pdb
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\06.ForeignLanguages\obj\Debug\net6.0\06.ForeignLanguages.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\06.ForeignLanguages\obj\Debug\net6.0\06.ForeignLanguages.AssemblyInfoInputs.cache
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\06.ForeignLanguages\obj\Debug\net6.0\06.ForeignLanguages.AssemblyInfo.cs
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\06.ForeignLanguages\obj\Debug\net6.0\06.ForeignLanguages.csproj.CoreCompileInputs.cache
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\06.ForeignLanguages\obj\Debug\net6.0\06.ForeignLanguages.dll
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\06.ForeignLanguages\obj\Debug\net6.0\refint\06.ForeignLanguages.dll
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\06.ForeignLanguages\obj\Debug\net6.0\06.ForeignLanguages.pdb
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\06.ForeignLanguages\obj\Debug\net6.0\06.ForeignLanguages.genruntimeconfig.cache
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\06.ForeignLanguages\obj\Debug\net6.0\ref\06.ForeignLanguages.dll

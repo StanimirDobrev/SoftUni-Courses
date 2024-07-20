@@ -1,0 +1,14 @@
+D:\C# PF\01.DataTypesAndVariables-Lab\02.PoundsToDollars\bin\Debug\net6.0\02.PoundsToDollars.exe
+D:\C# PF\01.DataTypesAndVariables-Lab\02.PoundsToDollars\bin\Debug\net6.0\02.PoundsToDollars.deps.json
+D:\C# PF\01.DataTypesAndVariables-Lab\02.PoundsToDollars\bin\Debug\net6.0\02.PoundsToDollars.runtimeconfig.json
+D:\C# PF\01.DataTypesAndVariables-Lab\02.PoundsToDollars\bin\Debug\net6.0\02.PoundsToDollars.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\02.PoundsToDollars\bin\Debug\net6.0\02.PoundsToDollars.pdb
+D:\C# PF\01.DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\01.DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.AssemblyInfoInputs.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.AssemblyInfo.cs
+D:\C# PF\01.DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.csproj.CoreCompileInputs.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\refint\02.PoundsToDollars.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.pdb
+D:\C# PF\01.DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.genruntimeconfig.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\ref\02.PoundsToDollars.dll

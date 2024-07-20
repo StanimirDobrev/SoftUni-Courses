@@ -1,0 +1,14 @@
+D:\C# PB\PB-PreExam\03. Excursion Calculator\bin\Debug\net6.0\03. Excursion Calculator.exe
+D:\C# PB\PB-PreExam\03. Excursion Calculator\bin\Debug\net6.0\03. Excursion Calculator.deps.json
+D:\C# PB\PB-PreExam\03. Excursion Calculator\bin\Debug\net6.0\03. Excursion Calculator.runtimeconfig.json
+D:\C# PB\PB-PreExam\03. Excursion Calculator\bin\Debug\net6.0\03. Excursion Calculator.dll
+D:\C# PB\PB-PreExam\03. Excursion Calculator\bin\Debug\net6.0\03. Excursion Calculator.pdb
+D:\C# PB\PB-PreExam\03. Excursion Calculator\obj\Debug\net6.0\03. Excursion Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\PB-PreExam\03. Excursion Calculator\obj\Debug\net6.0\03. Excursion Calculator.AssemblyInfoInputs.cache
+D:\C# PB\PB-PreExam\03. Excursion Calculator\obj\Debug\net6.0\03. Excursion Calculator.AssemblyInfo.cs
+D:\C# PB\PB-PreExam\03. Excursion Calculator\obj\Debug\net6.0\03. Excursion Calculator.csproj.CoreCompileInputs.cache
+D:\C# PB\PB-PreExam\03. Excursion Calculator\obj\Debug\net6.0\03. Excursion Calculator.dll
+D:\C# PB\PB-PreExam\03. Excursion Calculator\obj\Debug\net6.0\refint\03. Excursion Calculator.dll
+D:\C# PB\PB-PreExam\03. Excursion Calculator\obj\Debug\net6.0\03. Excursion Calculator.pdb
+D:\C# PB\PB-PreExam\03. Excursion Calculator\obj\Debug\net6.0\03. Excursion Calculator.genruntimeconfig.cache
+D:\C# PB\PB-PreExam\03. Excursion Calculator\obj\Debug\net6.0\ref\03. Excursion Calculator.dll

@@ -1,0 +1,14 @@
+D:\C# PB\NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\net6.0\04.SumOfTwoNumbers.exe
+D:\C# PB\NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\net6.0\04.SumOfTwoNumbers.deps.json
+D:\C# PB\NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\net6.0\04.SumOfTwoNumbers.runtimeconfig.json
+D:\C# PB\NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\net6.0\04.SumOfTwoNumbers.dll
+D:\C# PB\NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\net6.0\04.SumOfTwoNumbers.pdb
+D:\C# PB\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\04.SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\04.SumOfTwoNumbers.AssemblyInfoInputs.cache
+D:\C# PB\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\04.SumOfTwoNumbers.AssemblyInfo.cs
+D:\C# PB\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\04.SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+D:\C# PB\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\04.SumOfTwoNumbers.dll
+D:\C# PB\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\refint\04.SumOfTwoNumbers.dll
+D:\C# PB\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\04.SumOfTwoNumbers.pdb
+D:\C# PB\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\04.SumOfTwoNumbers.genruntimeconfig.cache
+D:\C# PB\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\ref\04.SumOfTwoNumbers.dll

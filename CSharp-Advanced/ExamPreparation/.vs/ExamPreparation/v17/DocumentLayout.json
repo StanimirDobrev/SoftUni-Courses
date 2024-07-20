@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\ExamPreparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{263CFB25-6FCC-4890-95B4-974895A0F519}|04.EscapeTheMaze\\04.EscapeTheMaze.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\exampreparation\\04.escapethemaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263CFB25-6FCC-4890-95B4-974895A0F519}|04.EscapeTheMaze\\04.EscapeTheMaze.csproj|solutionrelative:04.escapethemaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F95A937-5957-43C9-9AD3-08A0CB2A161D}|03.PiePursuit\\03.PiePursuit.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\exampreparation\\03.piepursuit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F95A937-5957-43C9-9AD3-08A0CB2A161D}|03.PiePursuit\\03.PiePursuit.csproj|solutionrelative:03.piepursuit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AC6365-630C-4889-AB74-F69EA91CA2B3}|02.ClearSkies\\02.ClearSkies.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\exampreparation\\02.clearskies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AC6365-630C-4889-AB74-F69EA91CA2B3}|02.ClearSkies\\02.ClearSkies.csproj|solutionrelative:02.clearskies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77789BC4-7D22-4B83-90D3-BE3C0EC66DE6}|01ChickenSnack\\01ChickenSnack.csproj|c:\\users\\pc\\source\\repos\\csharp-advanced\\exampreparation\\01chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77789BC4-7D22-4B83-90D3-BE3C0EC66DE6}|01ChickenSnack\\01ChickenSnack.csproj|solutionrelative:01chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\ExamPreparation\\04.EscapeTheMaze\\Program.cs",
+              "RelativeDocumentMoniker": "04.EscapeTheMaze\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\ExamPreparation\\04.EscapeTheMaze\\Program.cs",
+              "RelativeToolTip": "04.EscapeTheMaze\\Program.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAuwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:02:02.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\ExamPreparation\\03.PiePursuit\\Program.cs",
+              "RelativeDocumentMoniker": "03.PiePursuit\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\ExamPreparation\\03.PiePursuit\\Program.cs",
+              "RelativeToolTip": "03.PiePursuit\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:14:21.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\ExamPreparation\\02.ClearSkies\\Program.cs",
+              "RelativeDocumentMoniker": "02.ClearSkies\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\ExamPreparation\\02.ClearSkies\\Program.cs",
+              "RelativeToolTip": "02.ClearSkies\\Program.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAQwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:20:56.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\ExamPreparation\\01ChickenSnack\\Program.cs",
+              "RelativeDocumentMoniker": "01ChickenSnack\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CSharp-Advanced\\ExamPreparation\\01ChickenSnack\\Program.cs",
+              "RelativeToolTip": "01ChickenSnack\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:17:10.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

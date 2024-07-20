@@ -1,0 +1,14 @@
+D:\C# PF\Arrays-Exercise\01.Train\bin\Debug\net6.0\01.Train.exe
+D:\C# PF\Arrays-Exercise\01.Train\bin\Debug\net6.0\01.Train.deps.json
+D:\C# PF\Arrays-Exercise\01.Train\bin\Debug\net6.0\01.Train.runtimeconfig.json
+D:\C# PF\Arrays-Exercise\01.Train\bin\Debug\net6.0\01.Train.dll
+D:\C# PF\Arrays-Exercise\01.Train\bin\Debug\net6.0\01.Train.pdb
+D:\C# PF\Arrays-Exercise\01.Train\obj\Debug\net6.0\01.Train.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\Arrays-Exercise\01.Train\obj\Debug\net6.0\01.Train.AssemblyInfoInputs.cache
+D:\C# PF\Arrays-Exercise\01.Train\obj\Debug\net6.0\01.Train.AssemblyInfo.cs
+D:\C# PF\Arrays-Exercise\01.Train\obj\Debug\net6.0\01.Train.csproj.CoreCompileInputs.cache
+D:\C# PF\Arrays-Exercise\01.Train\obj\Debug\net6.0\01.Train.dll
+D:\C# PF\Arrays-Exercise\01.Train\obj\Debug\net6.0\refint\01.Train.dll
+D:\C# PF\Arrays-Exercise\01.Train\obj\Debug\net6.0\01.Train.pdb
+D:\C# PF\Arrays-Exercise\01.Train\obj\Debug\net6.0\01.Train.genruntimeconfig.cache
+D:\C# PF\Arrays-Exercise\01.Train\obj\Debug\net6.0\ref\01.Train.dll

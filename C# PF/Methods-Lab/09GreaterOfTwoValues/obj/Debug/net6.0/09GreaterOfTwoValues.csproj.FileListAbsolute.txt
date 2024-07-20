@@ -1,0 +1,14 @@
+D:\C# PF\Methods-Lab\09GreaterOfTwoValues\bin\Debug\net6.0\09GreaterOfTwoValues.exe
+D:\C# PF\Methods-Lab\09GreaterOfTwoValues\bin\Debug\net6.0\09GreaterOfTwoValues.deps.json
+D:\C# PF\Methods-Lab\09GreaterOfTwoValues\bin\Debug\net6.0\09GreaterOfTwoValues.runtimeconfig.json
+D:\C# PF\Methods-Lab\09GreaterOfTwoValues\bin\Debug\net6.0\09GreaterOfTwoValues.dll
+D:\C# PF\Methods-Lab\09GreaterOfTwoValues\bin\Debug\net6.0\09GreaterOfTwoValues.pdb
+D:\C# PF\Methods-Lab\09GreaterOfTwoValues\obj\Debug\net6.0\09GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\Methods-Lab\09GreaterOfTwoValues\obj\Debug\net6.0\09GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\C# PF\Methods-Lab\09GreaterOfTwoValues\obj\Debug\net6.0\09GreaterOfTwoValues.AssemblyInfo.cs
+D:\C# PF\Methods-Lab\09GreaterOfTwoValues\obj\Debug\net6.0\09GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\C# PF\Methods-Lab\09GreaterOfTwoValues\obj\Debug\net6.0\09GreaterOfTwoValues.dll
+D:\C# PF\Methods-Lab\09GreaterOfTwoValues\obj\Debug\net6.0\refint\09GreaterOfTwoValues.dll
+D:\C# PF\Methods-Lab\09GreaterOfTwoValues\obj\Debug\net6.0\09GreaterOfTwoValues.pdb
+D:\C# PF\Methods-Lab\09GreaterOfTwoValues\obj\Debug\net6.0\09GreaterOfTwoValues.genruntimeconfig.cache
+D:\C# PF\Methods-Lab\09GreaterOfTwoValues\obj\Debug\net6.0\ref\09GreaterOfTwoValues.dll

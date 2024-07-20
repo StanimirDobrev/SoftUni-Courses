@@ -1,0 +1,14 @@
+D:\C# PF\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\net6.0\10.MultiplyEvensByOdds.exe
+D:\C# PF\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\net6.0\10.MultiplyEvensByOdds.deps.json
+D:\C# PF\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\net6.0\10.MultiplyEvensByOdds.runtimeconfig.json
+D:\C# PF\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\net6.0\10.MultiplyEvensByOdds.dll
+D:\C# PF\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\net6.0\10.MultiplyEvensByOdds.pdb
+D:\C# PF\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.AssemblyInfoInputs.cache
+D:\C# PF\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.AssemblyInfo.cs
+D:\C# PF\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+D:\C# PF\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.dll
+D:\C# PF\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net6.0\refint\10.MultiplyEvensByOdds.dll
+D:\C# PF\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.pdb
+D:\C# PF\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.genruntimeconfig.cache
+D:\C# PF\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net6.0\ref\10.MultiplyEvensByOdds.dll

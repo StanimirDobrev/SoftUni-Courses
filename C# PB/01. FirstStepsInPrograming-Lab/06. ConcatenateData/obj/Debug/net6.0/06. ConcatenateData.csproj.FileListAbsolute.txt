@@ -1,0 +1,14 @@
+D:\C# PB\01. FirstStepsInPrograming-Lab\06. ConcatenateData\bin\Debug\net6.0\06. ConcatenateData.exe
+D:\C# PB\01. FirstStepsInPrograming-Lab\06. ConcatenateData\bin\Debug\net6.0\06. ConcatenateData.deps.json
+D:\C# PB\01. FirstStepsInPrograming-Lab\06. ConcatenateData\bin\Debug\net6.0\06. ConcatenateData.runtimeconfig.json
+D:\C# PB\01. FirstStepsInPrograming-Lab\06. ConcatenateData\bin\Debug\net6.0\06. ConcatenateData.dll
+D:\C# PB\01. FirstStepsInPrograming-Lab\06. ConcatenateData\bin\Debug\net6.0\06. ConcatenateData.pdb
+D:\C# PB\01. FirstStepsInPrograming-Lab\06. ConcatenateData\obj\Debug\net6.0\06. ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\01. FirstStepsInPrograming-Lab\06. ConcatenateData\obj\Debug\net6.0\06. ConcatenateData.AssemblyInfoInputs.cache
+D:\C# PB\01. FirstStepsInPrograming-Lab\06. ConcatenateData\obj\Debug\net6.0\06. ConcatenateData.AssemblyInfo.cs
+D:\C# PB\01. FirstStepsInPrograming-Lab\06. ConcatenateData\obj\Debug\net6.0\06. ConcatenateData.csproj.CoreCompileInputs.cache
+D:\C# PB\01. FirstStepsInPrograming-Lab\06. ConcatenateData\obj\Debug\net6.0\06. ConcatenateData.dll
+D:\C# PB\01. FirstStepsInPrograming-Lab\06. ConcatenateData\obj\Debug\net6.0\refint\06. ConcatenateData.dll
+D:\C# PB\01. FirstStepsInPrograming-Lab\06. ConcatenateData\obj\Debug\net6.0\06. ConcatenateData.pdb
+D:\C# PB\01. FirstStepsInPrograming-Lab\06. ConcatenateData\obj\Debug\net6.0\06. ConcatenateData.genruntimeconfig.cache
+D:\C# PB\01. FirstStepsInPrograming-Lab\06. ConcatenateData\obj\Debug\net6.0\ref\06. ConcatenateData.dll

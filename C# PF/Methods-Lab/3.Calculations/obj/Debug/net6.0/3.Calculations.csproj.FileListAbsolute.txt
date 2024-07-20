@@ -1,0 +1,14 @@
+D:\C# PF\Methods-Lab\3.Calculations\bin\Debug\net6.0\3.Calculations.exe
+D:\C# PF\Methods-Lab\3.Calculations\bin\Debug\net6.0\3.Calculations.deps.json
+D:\C# PF\Methods-Lab\3.Calculations\bin\Debug\net6.0\3.Calculations.runtimeconfig.json
+D:\C# PF\Methods-Lab\3.Calculations\bin\Debug\net6.0\3.Calculations.dll
+D:\C# PF\Methods-Lab\3.Calculations\bin\Debug\net6.0\3.Calculations.pdb
+D:\C# PF\Methods-Lab\3.Calculations\obj\Debug\net6.0\3.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\Methods-Lab\3.Calculations\obj\Debug\net6.0\3.Calculations.AssemblyInfoInputs.cache
+D:\C# PF\Methods-Lab\3.Calculations\obj\Debug\net6.0\3.Calculations.AssemblyInfo.cs
+D:\C# PF\Methods-Lab\3.Calculations\obj\Debug\net6.0\3.Calculations.csproj.CoreCompileInputs.cache
+D:\C# PF\Methods-Lab\3.Calculations\obj\Debug\net6.0\3.Calculations.dll
+D:\C# PF\Methods-Lab\3.Calculations\obj\Debug\net6.0\refint\3.Calculations.dll
+D:\C# PF\Methods-Lab\3.Calculations\obj\Debug\net6.0\3.Calculations.pdb
+D:\C# PF\Methods-Lab\3.Calculations\obj\Debug\net6.0\3.Calculations.genruntimeconfig.cache
+D:\C# PF\Methods-Lab\3.Calculations\obj\Debug\net6.0\ref\3.Calculations.dll

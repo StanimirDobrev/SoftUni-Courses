@@ -1,0 +1,14 @@
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\09.SumOfOddNumbers\bin\Debug\net6.0\09.SumOfOddNumbers.exe
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\09.SumOfOddNumbers\bin\Debug\net6.0\09.SumOfOddNumbers.deps.json
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\09.SumOfOddNumbers\bin\Debug\net6.0\09.SumOfOddNumbers.runtimeconfig.json
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\09.SumOfOddNumbers\bin\Debug\net6.0\09.SumOfOddNumbers.dll
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\09.SumOfOddNumbers\bin\Debug\net6.0\09.SumOfOddNumbers.pdb
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.AssemblyInfoInputs.cache
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.AssemblyInfo.cs
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.csproj.CoreCompileInputs.cache
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.dll
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\09.SumOfOddNumbers\obj\Debug\net6.0\refint\09.SumOfOddNumbers.dll
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.pdb
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.genruntimeconfig.cache
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\09.SumOfOddNumbers\obj\Debug\net6.0\ref\09.SumOfOddNumbers.dll

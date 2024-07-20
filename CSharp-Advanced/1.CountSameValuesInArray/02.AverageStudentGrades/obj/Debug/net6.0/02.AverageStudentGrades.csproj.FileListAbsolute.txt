@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\02.AverageStudentGrades\bin\Debug\net6.0\02.AverageStudentGrades.exe
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\02.AverageStudentGrades\bin\Debug\net6.0\02.AverageStudentGrades.deps.json
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\02.AverageStudentGrades\bin\Debug\net6.0\02.AverageStudentGrades.runtimeconfig.json
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\02.AverageStudentGrades\bin\Debug\net6.0\02.AverageStudentGrades.dll
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\02.AverageStudentGrades\bin\Debug\net6.0\02.AverageStudentGrades.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\02.AverageStudentGrades\obj\Debug\net6.0\02.AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\02.AverageStudentGrades\obj\Debug\net6.0\02.AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\02.AverageStudentGrades\obj\Debug\net6.0\02.AverageStudentGrades.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\02.AverageStudentGrades\obj\Debug\net6.0\02.AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\02.AverageStudentGrades\obj\Debug\net6.0\02.AverageStudentGrades.dll
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\02.AverageStudentGrades\obj\Debug\net6.0\refint\02.AverageStudentGrades.dll
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\02.AverageStudentGrades\obj\Debug\net6.0\02.AverageStudentGrades.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\02.AverageStudentGrades\obj\Debug\net6.0\02.AverageStudentGrades.genruntimeconfig.cache
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\02.AverageStudentGrades\obj\Debug\net6.0\ref\02.AverageStudentGrades.dll

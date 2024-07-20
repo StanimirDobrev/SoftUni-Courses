@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operations", "Operations\Operations.csproj", "{B0F3B187-50BC-4A87-9220-F50863DF9F9F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animals", "Animals\Animals.csproj", "{91583049-ED89-4AEC-9129-F023124CABF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{A9DDDC54-1C64-4894-8A43-7BCF19A41165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0F3B187-50BC-4A87-9220-F50863DF9F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F3B187-50BC-4A87-9220-F50863DF9F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F3B187-50BC-4A87-9220-F50863DF9F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F3B187-50BC-4A87-9220-F50863DF9F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91583049-ED89-4AEC-9129-F023124CABF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91583049-ED89-4AEC-9129-F023124CABF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91583049-ED89-4AEC-9129-F023124CABF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91583049-ED89-4AEC-9129-F023124CABF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9DDDC54-1C64-4894-8A43-7BCF19A41165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DDDC54-1C64-4894-8A43-7BCF19A41165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DDDC54-1C64-4894-8A43-7BCF19A41165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DDDC54-1C64-4894-8A43-7BCF19A41165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13AFDD0C-2E85-4498-91EB-450E9563F233}
+	EndGlobalSection
+EndGlobal

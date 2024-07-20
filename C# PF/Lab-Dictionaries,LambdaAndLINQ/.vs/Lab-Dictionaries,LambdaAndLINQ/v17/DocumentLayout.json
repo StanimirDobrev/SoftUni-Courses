@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Lab-Dictionaries,LambdaAndLINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18B02336-8546-4AD2-BB5A-8533B5D0DDDD}|04.WordFilter\\04.WordFilter.csproj|c:\\users\\pc\\source\\repos\\lab-dictionaries,lambdaandlinq\\04.wordfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B02336-8546-4AD2-BB5A-8533B5D0DDDD}|04.WordFilter\\04.WordFilter.csproj|solutionrelative:04.wordfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC8E24E-46B2-47FC-B02C-9AA4F6D7692A}|03.WordSynonyms\\03.WordSynonyms.csproj|c:\\users\\pc\\source\\repos\\lab-dictionaries,lambdaandlinq\\03.wordsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC8E24E-46B2-47FC-B02C-9AA4F6D7692A}|03.WordSynonyms\\03.WordSynonyms.csproj|solutionrelative:03.wordsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FE468C-1F4D-45ED-B018-F1E12E9A801D}|02.OddOccurrences\\02.OddOccurrences.csproj|c:\\users\\pc\\source\\repos\\lab-dictionaries,lambdaandlinq\\02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FE468C-1F4D-45ED-B018-F1E12E9A801D}|02.OddOccurrences\\02.OddOccurrences.csproj|solutionrelative:02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBC70DB-6177-4B71-8F12-90781C80B2C4}|1.CountRealNumbers\\1.CountRealNumbers.csproj|c:\\users\\pc\\source\\repos\\lab-dictionaries,lambdaandlinq\\1.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBC70DB-6177-4B71-8F12-90781C80B2C4}|1.CountRealNumbers\\1.CountRealNumbers.csproj|solutionrelative:1.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Lab-Dictionaries,LambdaAndLINQ\\04.WordFilter\\Program.cs",
+              "RelativeDocumentMoniker": "04.WordFilter\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Lab-Dictionaries,LambdaAndLINQ\\04.WordFilter\\Program.cs",
+              "RelativeToolTip": "04.WordFilter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T20:12:38.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Lab-Dictionaries,LambdaAndLINQ\\03.WordSynonyms\\Program.cs",
+              "RelativeDocumentMoniker": "03.WordSynonyms\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Lab-Dictionaries,LambdaAndLINQ\\03.WordSynonyms\\Program.cs",
+              "RelativeToolTip": "03.WordSynonyms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T19:58:07.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Lab-Dictionaries,LambdaAndLINQ\\02.OddOccurrences\\Program.cs",
+              "RelativeDocumentMoniker": "02.OddOccurrences\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Lab-Dictionaries,LambdaAndLINQ\\02.OddOccurrences\\Program.cs",
+              "RelativeToolTip": "02.OddOccurrences\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T19:49:23.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Lab-Dictionaries,LambdaAndLINQ\\1.CountRealNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "1.CountRealNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Lab-Dictionaries,LambdaAndLINQ\\1.CountRealNumbers\\Program.cs",
+              "RelativeToolTip": "1.CountRealNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T19:29:36.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

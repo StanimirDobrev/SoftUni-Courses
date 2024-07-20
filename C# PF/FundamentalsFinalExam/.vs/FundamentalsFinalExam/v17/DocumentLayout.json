@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\FundamentalsFinalExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2758078-D403-4328-9E64-1B0823BA0594}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\pc\\source\\repos\\fundamentalsfinalexam\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2758078-D403-4328-9E64-1B0823BA0594}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8C4115-B75B-4801-AA33-EA4C699032DB}|Problem2\\Problem2.csproj|c:\\users\\pc\\source\\repos\\fundamentalsfinalexam\\problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8C4115-B75B-4801-AA33-EA4C699032DB}|Problem2\\Problem2.csproj|solutionrelative:problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66C9F18-F2F1-40CC-B46B-1D6B23C48150}|Problem3\\Problem3.csproj|c:\\users\\pc\\source\\repos\\fundamentalsfinalexam\\problem3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66C9F18-F2F1-40CC-B46B-1D6B23C48150}|Problem3\\Problem3.csproj|solutionrelative:problem3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6271B103-1AF1-4881-91BE-888FC0B086B5}|Problem1\\Problem1.csproj|c:\\users\\pc\\source\\repos\\fundamentalsfinalexam\\problem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6271B103-1AF1-4881-91BE-888FC0B086B5}|Problem1\\Problem1.csproj|solutionrelative:problem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FundamentalsFinalExam\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FundamentalsFinalExam\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:42:14.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FundamentalsFinalExam\\Problem3\\Program.cs",
+              "RelativeDocumentMoniker": "Problem3\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FundamentalsFinalExam\\Problem3\\Program.cs",
+              "RelativeToolTip": "Problem3\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T06:09:35.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FundamentalsFinalExam\\Problem2\\Program.cs",
+              "RelativeDocumentMoniker": "Problem2\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FundamentalsFinalExam\\Problem2\\Program.cs",
+              "RelativeToolTip": "Problem2\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T06:09:13.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FundamentalsFinalExam\\Problem1\\Program.cs",
+              "RelativeDocumentMoniker": "Problem1\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FundamentalsFinalExam\\Problem1\\Program.cs",
+              "RelativeToolTip": "Problem1\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwCoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T06:08:34.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

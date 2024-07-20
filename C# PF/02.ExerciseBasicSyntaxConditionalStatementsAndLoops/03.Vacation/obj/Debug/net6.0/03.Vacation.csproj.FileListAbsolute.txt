@@ -1,0 +1,14 @@
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\03.Vacation\obj\Debug\net6.0\03.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\03.Vacation\obj\Debug\net6.0\03.Vacation.AssemblyInfoInputs.cache
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\03.Vacation\obj\Debug\net6.0\03.Vacation.AssemblyInfo.cs
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\03.Vacation\obj\Debug\net6.0\03.Vacation.csproj.CoreCompileInputs.cache
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\03.Vacation\bin\Debug\net6.0\03.Vacation.exe
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\03.Vacation\bin\Debug\net6.0\03.Vacation.deps.json
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\03.Vacation\bin\Debug\net6.0\03.Vacation.runtimeconfig.json
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\03.Vacation\bin\Debug\net6.0\03.Vacation.dll
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\03.Vacation\bin\Debug\net6.0\03.Vacation.pdb
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\03.Vacation\obj\Debug\net6.0\03.Vacation.dll
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\03.Vacation\obj\Debug\net6.0\refint\03.Vacation.dll
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\03.Vacation\obj\Debug\net6.0\03.Vacation.pdb
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\03.Vacation\obj\Debug\net6.0\03.Vacation.genruntimeconfig.cache
+D:\C# PF\02.ExerciseBasicSyntaxConditionalStatementsAndLoops\03.Vacation\obj\Debug\net6.0\ref\03.Vacation.dll

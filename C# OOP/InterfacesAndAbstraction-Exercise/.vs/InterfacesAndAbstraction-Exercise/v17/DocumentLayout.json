@@ -1,0 +1,468 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0A28B-4A61-426F-8769-3B6249222F4A}|FoodShortage\\FoodShortage.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\foodshortage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0A28B-4A61-426F-8769-3B6249222F4A}|FoodShortage\\FoodShortage.csproj|solutionrelative:foodshortage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0A28B-4A61-426F-8769-3B6249222F4A}|FoodShortage\\FoodShortage.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\foodshortage\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0A28B-4A61-426F-8769-3B6249222F4A}|FoodShortage\\FoodShortage.csproj|solutionrelative:foodshortage\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0A28B-4A61-426F-8769-3B6249222F4A}|FoodShortage\\FoodShortage.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\foodshortage\\models\\rebel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0A28B-4A61-426F-8769-3B6249222F4A}|FoodShortage\\FoodShortage.csproj|solutionrelative:foodshortage\\models\\rebel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0A28B-4A61-426F-8769-3B6249222F4A}|FoodShortage\\FoodShortage.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\foodshortage\\models\\interfaces\\ibuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0A28B-4A61-426F-8769-3B6249222F4A}|FoodShortage\\FoodShortage.csproj|solutionrelative:foodshortage\\models\\interfaces\\ibuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757A8645-6795-4AAC-AADF-6D5ED158BADF}|BirthdayCelebrations\\BirthdayCelebrations.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\birthdaycelebrations\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757A8645-6795-4AAC-AADF-6D5ED158BADF}|BirthdayCelebrations\\BirthdayCelebrations.csproj|solutionrelative:birthdaycelebrations\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757A8645-6795-4AAC-AADF-6D5ED158BADF}|BirthdayCelebrations\\BirthdayCelebrations.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\birthdaycelebrations\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757A8645-6795-4AAC-AADF-6D5ED158BADF}|BirthdayCelebrations\\BirthdayCelebrations.csproj|solutionrelative:birthdaycelebrations\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0A28B-4A61-426F-8769-3B6249222F4A}|FoodShortage\\FoodShortage.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\foodshortage\\models\\interfaces\\ibirthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0A28B-4A61-426F-8769-3B6249222F4A}|FoodShortage\\FoodShortage.csproj|solutionrelative:foodshortage\\models\\interfaces\\ibirthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757A8645-6795-4AAC-AADF-6D5ED158BADF}|BirthdayCelebrations\\BirthdayCelebrations.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\birthdaycelebrations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757A8645-6795-4AAC-AADF-6D5ED158BADF}|BirthdayCelebrations\\BirthdayCelebrations.csproj|solutionrelative:birthdaycelebrations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757A8645-6795-4AAC-AADF-6D5ED158BADF}|BirthdayCelebrations\\BirthdayCelebrations.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\birthdaycelebrations\\models\\interfaces\\ibirthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757A8645-6795-4AAC-AADF-6D5ED158BADF}|BirthdayCelebrations\\BirthdayCelebrations.csproj|solutionrelative:birthdaycelebrations\\models\\interfaces\\ibirthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0A28B-4A61-426F-8769-3B6249222F4A}|FoodShortage\\FoodShortage.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\foodshortage\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0A28B-4A61-426F-8769-3B6249222F4A}|FoodShortage\\FoodShortage.csproj|solutionrelative:foodshortage\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757A8645-6795-4AAC-AADF-6D5ED158BADF}|BirthdayCelebrations\\BirthdayCelebrations.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\birthdaycelebrations\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757A8645-6795-4AAC-AADF-6D5ED158BADF}|BirthdayCelebrations\\BirthdayCelebrations.csproj|solutionrelative:birthdaycelebrations\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DAF2A4-6E6A-414F-858D-FA64C0B31FDA}|BorderControl\\BorderControl.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\bordercontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DAF2A4-6E6A-414F-858D-FA64C0B31FDA}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757A8645-6795-4AAC-AADF-6D5ED158BADF}|BirthdayCelebrations\\BirthdayCelebrations.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\birthdaycelebrations\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757A8645-6795-4AAC-AADF-6D5ED158BADF}|BirthdayCelebrations\\BirthdayCelebrations.csproj|solutionrelative:birthdaycelebrations\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DAF2A4-6E6A-414F-858D-FA64C0B31FDA}|BorderControl\\BorderControl.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\bordercontrol\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DAF2A4-6E6A-414F-858D-FA64C0B31FDA}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DAF2A4-6E6A-414F-858D-FA64C0B31FDA}|BorderControl\\BorderControl.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\bordercontrol\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DAF2A4-6E6A-414F-858D-FA64C0B31FDA}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DAF2A4-6E6A-414F-858D-FA64C0B31FDA}|BorderControl\\BorderControl.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\bordercontrol\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DAF2A4-6E6A-414F-858D-FA64C0B31FDA}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444FBAA8-F3E9-404D-B4EE-A248DAB74D73}|Telephony\\Telephony.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\telephony\\models\\stationaryphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444FBAA8-F3E9-404D-B4EE-A248DAB74D73}|Telephony\\Telephony.csproj|solutionrelative:telephony\\models\\stationaryphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444FBAA8-F3E9-404D-B4EE-A248DAB74D73}|Telephony\\Telephony.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\telephony\\models\\interfaces\\icaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444FBAA8-F3E9-404D-B4EE-A248DAB74D73}|Telephony\\Telephony.csproj|solutionrelative:telephony\\models\\interfaces\\icaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444FBAA8-F3E9-404D-B4EE-A248DAB74D73}|Telephony\\Telephony.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\telephony\\models\\interfaces\\ibrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444FBAA8-F3E9-404D-B4EE-A248DAB74D73}|Telephony\\Telephony.csproj|solutionrelative:telephony\\models\\interfaces\\ibrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493ECA72-09FF-4AC6-BD92-1D552F1E38EC}|InterfacesAndAbstraction-Exercise\\PersonInfo.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\interfacesandabstraction-exercise\\models\\interfaces\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493ECA72-09FF-4AC6-BD92-1D552F1E38EC}|InterfacesAndAbstraction-Exercise\\PersonInfo.csproj|solutionrelative:interfacesandabstraction-exercise\\models\\interfaces\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493ECA72-09FF-4AC6-BD92-1D552F1E38EC}|InterfacesAndAbstraction-Exercise\\PersonInfo.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\interfacesandabstraction-exercise\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493ECA72-09FF-4AC6-BD92-1D552F1E38EC}|InterfacesAndAbstraction-Exercise\\PersonInfo.csproj|solutionrelative:interfacesandabstraction-exercise\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493ECA72-09FF-4AC6-BD92-1D552F1E38EC}|InterfacesAndAbstraction-Exercise\\PersonInfo.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\interfacesandabstraction-exercise\\models\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493ECA72-09FF-4AC6-BD92-1D552F1E38EC}|InterfacesAndAbstraction-Exercise\\PersonInfo.csproj|solutionrelative:interfacesandabstraction-exercise\\models\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493ECA72-09FF-4AC6-BD92-1D552F1E38EC}|InterfacesAndAbstraction-Exercise\\PersonInfo.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\interfacesandabstraction-exercise\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493ECA72-09FF-4AC6-BD92-1D552F1E38EC}|InterfacesAndAbstraction-Exercise\\PersonInfo.csproj|solutionrelative:interfacesandabstraction-exercise\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444FBAA8-F3E9-404D-B4EE-A248DAB74D73}|Telephony\\Telephony.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\telephony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444FBAA8-F3E9-404D-B4EE-A248DAB74D73}|Telephony\\Telephony.csproj|solutionrelative:telephony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444FBAA8-F3E9-404D-B4EE-A248DAB74D73}|Telephony\\Telephony.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\telephony\\models\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444FBAA8-F3E9-404D-B4EE-A248DAB74D73}|Telephony\\Telephony.csproj|solutionrelative:telephony\\models\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493ECA72-09FF-4AC6-BD92-1D552F1E38EC}|InterfacesAndAbstraction-Exercise\\PersonInfo.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\interfacesandabstraction-exercise\\personinfo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{493ECA72-09FF-4AC6-BD92-1D552F1E38EC}|InterfacesAndAbstraction-Exercise\\PersonInfo.csproj|solutionrelative:interfacesandabstraction-exercise\\personinfo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493ECA72-09FF-4AC6-BD92-1D552F1E38EC}|InterfacesAndAbstraction-Exercise\\PersonInfo.csproj|c:\\users\\pc\\source\\repos\\c# oop\\interfacesandabstraction-exercise\\interfacesandabstraction-exercise\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493ECA72-09FF-4AC6-BD92-1D552F1E38EC}|InterfacesAndAbstraction-Exercise\\PersonInfo.csproj|solutionrelative:interfacesandabstraction-exercise\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rebel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\FoodShortage\\Models\\Rebel.cs",
+              "RelativeDocumentMoniker": "FoodShortage\\Models\\Rebel.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\FoodShortage\\Models\\Rebel.cs",
+              "RelativeToolTip": "FoodShortage\\Models\\Rebel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:36:10.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBirthdate.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\FoodShortage\\Models\\Interfaces\\IBirthdate.cs",
+              "RelativeDocumentMoniker": "FoodShortage\\Models\\Interfaces\\IBirthdate.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\FoodShortage\\Models\\Interfaces\\IBirthdate.cs",
+              "RelativeToolTip": "FoodShortage\\Models\\Interfaces\\IBirthdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:33:21.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\FoodShortage\\Models\\Interfaces\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "FoodShortage\\Models\\Interfaces\\IIdentifiable.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\FoodShortage\\Models\\Interfaces\\IIdentifiable.cs",
+              "RelativeToolTip": "FoodShortage\\Models\\Interfaces\\IIdentifiable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:32:44.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\FoodShortage\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "FoodShortage\\Models\\Citizen.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\FoodShortage\\Models\\Citizen.cs",
+              "RelativeToolTip": "FoodShortage\\Models\\Citizen.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:31:55.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBuyer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\FoodShortage\\Models\\Interfaces\\IBuyer.cs",
+              "RelativeDocumentMoniker": "FoodShortage\\Models\\Interfaces\\IBuyer.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\FoodShortage\\Models\\Interfaces\\IBuyer.cs",
+              "RelativeToolTip": "FoodShortage\\Models\\Interfaces\\IBuyer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:30:59.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\FoodShortage\\Program.cs",
+              "RelativeDocumentMoniker": "FoodShortage\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\FoodShortage\\Program.cs",
+              "RelativeToolTip": "FoodShortage\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:30:00.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BirthdayCelebrations\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "BirthdayCelebrations\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BirthdayCelebrations\\Models\\Pet.cs",
+              "RelativeToolTip": "BirthdayCelebrations\\Models\\Pet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:08:44.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BirthdayCelebrations\\Models\\Robot.cs",
+              "RelativeDocumentMoniker": "BirthdayCelebrations\\Models\\Robot.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BirthdayCelebrations\\Models\\Robot.cs",
+              "RelativeToolTip": "BirthdayCelebrations\\Models\\Robot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:07:53.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BirthdayCelebrations\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "BirthdayCelebrations\\Models\\Citizen.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BirthdayCelebrations\\Models\\Citizen.cs",
+              "RelativeToolTip": "BirthdayCelebrations\\Models\\Citizen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:06:16.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BirthdayCelebrations\\Models\\Interfaces\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "BirthdayCelebrations\\Models\\Interfaces\\IIdentifiable.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BirthdayCelebrations\\Models\\Interfaces\\IIdentifiable.cs",
+              "RelativeToolTip": "BirthdayCelebrations\\Models\\Interfaces\\IIdentifiable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:05:34.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBirthdate.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BirthdayCelebrations\\Models\\Interfaces\\IBirthdate.cs",
+              "RelativeDocumentMoniker": "BirthdayCelebrations\\Models\\Interfaces\\IBirthdate.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BirthdayCelebrations\\Models\\Interfaces\\IBirthdate.cs",
+              "RelativeToolTip": "BirthdayCelebrations\\Models\\Interfaces\\IBirthdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:04:33.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BirthdayCelebrations\\Program.cs",
+              "RelativeDocumentMoniker": "BirthdayCelebrations\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BirthdayCelebrations\\Program.cs",
+              "RelativeToolTip": "BirthdayCelebrations\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:23.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BorderControl\\Models\\Robot.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Models\\Robot.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BorderControl\\Models\\Robot.cs",
+              "RelativeToolTip": "BorderControl\\Models\\Robot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:51:20.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BorderControl\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Models\\Citizen.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BorderControl\\Models\\Citizen.cs",
+              "RelativeToolTip": "BorderControl\\Models\\Citizen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:51:09.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BorderControl\\Models\\Interfaces\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Models\\Interfaces\\IIdentifiable.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BorderControl\\Models\\Interfaces\\IIdentifiable.cs",
+              "RelativeToolTip": "BorderControl\\Models\\Interfaces\\IIdentifiable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:50:18.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BorderControl\\Program.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\BorderControl\\Program.cs",
+              "RelativeToolTip": "BorderControl\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:42:32.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StationaryPhone.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\Telephony\\Models\\StationaryPhone.cs",
+              "RelativeDocumentMoniker": "Telephony\\Models\\StationaryPhone.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\Telephony\\Models\\StationaryPhone.cs",
+              "RelativeToolTip": "Telephony\\Models\\StationaryPhone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:23:14.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SmartPhone.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\Telephony\\Models\\SmartPhone.cs",
+              "RelativeDocumentMoniker": "Telephony\\Models\\SmartPhone.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\Telephony\\Models\\SmartPhone.cs",
+              "RelativeToolTip": "Telephony\\Models\\SmartPhone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:22:58.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBrowser.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\Telephony\\Models\\Interfaces\\IBrowser.cs",
+              "RelativeDocumentMoniker": "Telephony\\Models\\Interfaces\\IBrowser.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\Telephony\\Models\\Interfaces\\IBrowser.cs",
+              "RelativeToolTip": "Telephony\\Models\\Interfaces\\IBrowser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:20:33.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICaller.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\Telephony\\Models\\Interfaces\\ICaller.cs",
+              "RelativeDocumentMoniker": "Telephony\\Models\\Interfaces\\ICaller.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\Telephony\\Models\\Interfaces\\ICaller.cs",
+              "RelativeToolTip": "Telephony\\Models\\Interfaces\\ICaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:20:22.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\Telephony\\Program.cs",
+              "RelativeDocumentMoniker": "Telephony\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\Telephony\\Program.cs",
+              "RelativeToolTip": "Telephony\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:17:14.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\InterfacesAndAbstraction-Exercise\\Models\\Interfaces\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "InterfacesAndAbstraction-Exercise\\Models\\Interfaces\\IIdentifiable.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\InterfacesAndAbstraction-Exercise\\Models\\Interfaces\\IIdentifiable.cs",
+              "RelativeToolTip": "InterfacesAndAbstraction-Exercise\\Models\\Interfaces\\IIdentifiable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:13:26.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBirthable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\InterfacesAndAbstraction-Exercise\\Models\\Interfaces\\IBirthable.cs",
+              "RelativeDocumentMoniker": "InterfacesAndAbstraction-Exercise\\Models\\Interfaces\\IBirthable.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\InterfacesAndAbstraction-Exercise\\Models\\Interfaces\\IBirthable.cs",
+              "RelativeToolTip": "InterfacesAndAbstraction-Exercise\\Models\\Interfaces\\IBirthable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:13:08.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PersonInfo.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\InterfacesAndAbstraction-Exercise\\PersonInfo.csproj",
+              "RelativeDocumentMoniker": "InterfacesAndAbstraction-Exercise\\PersonInfo.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\InterfacesAndAbstraction-Exercise\\PersonInfo.csproj",
+              "RelativeToolTip": "InterfacesAndAbstraction-Exercise\\PersonInfo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T11:06:55.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\InterfacesAndAbstraction-Exercise\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "InterfacesAndAbstraction-Exercise\\Models\\Citizen.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\InterfacesAndAbstraction-Exercise\\Models\\Citizen.cs",
+              "RelativeToolTip": "InterfacesAndAbstraction-Exercise\\Models\\Citizen.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:58:30.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\InterfacesAndAbstraction-Exercise\\Models\\Interfaces\\IPerson.cs",
+              "RelativeDocumentMoniker": "InterfacesAndAbstraction-Exercise\\Models\\Interfaces\\IPerson.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\InterfacesAndAbstraction-Exercise\\Models\\Interfaces\\IPerson.cs",
+              "RelativeToolTip": "InterfacesAndAbstraction-Exercise\\Models\\Interfaces\\IPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:55:48.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\InterfacesAndAbstraction-Exercise\\StartUp.cs",
+              "RelativeDocumentMoniker": "InterfacesAndAbstraction-Exercise\\StartUp.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C# OOP\\InterfacesAndAbstraction-Exercise\\InterfacesAndAbstraction-Exercise\\StartUp.cs",
+              "RelativeToolTip": "InterfacesAndAbstraction-Exercise\\StartUp.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:49:20.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

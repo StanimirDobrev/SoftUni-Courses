@@ -1,0 +1,14 @@
+D:\C# PF\Methods-Lab\05.Orders\bin\Debug\net6.0\05.Orders.exe
+D:\C# PF\Methods-Lab\05.Orders\bin\Debug\net6.0\05.Orders.deps.json
+D:\C# PF\Methods-Lab\05.Orders\bin\Debug\net6.0\05.Orders.runtimeconfig.json
+D:\C# PF\Methods-Lab\05.Orders\bin\Debug\net6.0\05.Orders.dll
+D:\C# PF\Methods-Lab\05.Orders\bin\Debug\net6.0\05.Orders.pdb
+D:\C# PF\Methods-Lab\05.Orders\obj\Debug\net6.0\05.Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\Methods-Lab\05.Orders\obj\Debug\net6.0\05.Orders.AssemblyInfoInputs.cache
+D:\C# PF\Methods-Lab\05.Orders\obj\Debug\net6.0\05.Orders.AssemblyInfo.cs
+D:\C# PF\Methods-Lab\05.Orders\obj\Debug\net6.0\05.Orders.csproj.CoreCompileInputs.cache
+D:\C# PF\Methods-Lab\05.Orders\obj\Debug\net6.0\05.Orders.dll
+D:\C# PF\Methods-Lab\05.Orders\obj\Debug\net6.0\refint\05.Orders.dll
+D:\C# PF\Methods-Lab\05.Orders\obj\Debug\net6.0\05.Orders.pdb
+D:\C# PF\Methods-Lab\05.Orders\obj\Debug\net6.0\05.Orders.genruntimeconfig.cache
+D:\C# PF\Methods-Lab\05.Orders\obj\Debug\net6.0\ref\05.Orders.dll

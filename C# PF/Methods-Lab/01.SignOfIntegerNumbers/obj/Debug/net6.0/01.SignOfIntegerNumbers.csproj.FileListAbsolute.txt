@@ -1,0 +1,14 @@
+D:\C# PF\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.exe
+D:\C# PF\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.deps.json
+D:\C# PF\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.runtimeconfig.json
+D:\C# PF\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.dll
+D:\C# PF\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.pdb
+D:\C# PF\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+D:\C# PF\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.AssemblyInfo.cs
+D:\C# PF\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\C# PF\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.dll
+D:\C# PF\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\refint\01.SignOfIntegerNumbers.dll
+D:\C# PF\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.pdb
+D:\C# PF\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.genruntimeconfig.cache
+D:\C# PF\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\ref\01.SignOfIntegerNumbers.dll

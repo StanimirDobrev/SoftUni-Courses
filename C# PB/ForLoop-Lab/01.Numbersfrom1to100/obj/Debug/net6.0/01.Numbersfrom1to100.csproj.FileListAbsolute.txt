@@ -1,0 +1,14 @@
+D:\C# PB\ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\net6.0\01.Numbersfrom1to100.exe
+D:\C# PB\ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\net6.0\01.Numbersfrom1to100.deps.json
+D:\C# PB\ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\net6.0\01.Numbersfrom1to100.runtimeconfig.json
+D:\C# PB\ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\net6.0\01.Numbersfrom1to100.dll
+D:\C# PB\ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\net6.0\01.Numbersfrom1to100.pdb
+D:\C# PB\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\01.Numbersfrom1to100.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\01.Numbersfrom1to100.AssemblyInfoInputs.cache
+D:\C# PB\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\01.Numbersfrom1to100.AssemblyInfo.cs
+D:\C# PB\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\01.Numbersfrom1to100.csproj.CoreCompileInputs.cache
+D:\C# PB\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\01.Numbersfrom1to100.dll
+D:\C# PB\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\refint\01.Numbersfrom1to100.dll
+D:\C# PB\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\01.Numbersfrom1to100.pdb
+D:\C# PB\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\01.Numbersfrom1to100.genruntimeconfig.cache
+D:\C# PB\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\ref\01.Numbersfrom1to100.dll

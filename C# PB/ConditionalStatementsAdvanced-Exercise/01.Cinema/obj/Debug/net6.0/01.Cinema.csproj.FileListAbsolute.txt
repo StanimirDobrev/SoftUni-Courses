@@ -1,0 +1,14 @@
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net6.0\01.Cinema.exe
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net6.0\01.Cinema.deps.json
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net6.0\01.Cinema.runtimeconfig.json
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net6.0\01.Cinema.dll
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net6.0\01.Cinema.pdb
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\01.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\01.Cinema.AssemblyInfoInputs.cache
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\01.Cinema.AssemblyInfo.cs
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\01.Cinema.csproj.CoreCompileInputs.cache
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\01.Cinema.dll
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\refint\01.Cinema.dll
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\01.Cinema.pdb
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\01.Cinema.genruntimeconfig.cache
+D:\C# PB\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\ref\01.Cinema.dll

@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\2.StackSum\bin\Debug\net6.0\2.StackSum.exe
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\2.StackSum\bin\Debug\net6.0\2.StackSum.deps.json
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\2.StackSum\bin\Debug\net6.0\2.StackSum.runtimeconfig.json
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\2.StackSum\bin\Debug\net6.0\2.StackSum.dll
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\2.StackSum\bin\Debug\net6.0\2.StackSum.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\2.StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\2.StackSum.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\2.StackSum.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\2.StackSum.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\2.StackSum.dll
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\refint\2.StackSum.dll
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\2.StackSum.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\2.StackSum.genruntimeconfig.cache
+C:\Users\PC\source\repos\CSharp-Advanced\01.Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\ref\2.StackSum.dll

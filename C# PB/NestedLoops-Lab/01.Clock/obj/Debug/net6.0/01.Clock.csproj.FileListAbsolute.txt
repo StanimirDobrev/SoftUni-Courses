@@ -1,0 +1,14 @@
+D:\C# PB\NestedLoops-Lab\01.Clock\bin\Debug\net6.0\01.Clock.exe
+D:\C# PB\NestedLoops-Lab\01.Clock\bin\Debug\net6.0\01.Clock.deps.json
+D:\C# PB\NestedLoops-Lab\01.Clock\bin\Debug\net6.0\01.Clock.runtimeconfig.json
+D:\C# PB\NestedLoops-Lab\01.Clock\bin\Debug\net6.0\01.Clock.dll
+D:\C# PB\NestedLoops-Lab\01.Clock\bin\Debug\net6.0\01.Clock.pdb
+D:\C# PB\NestedLoops-Lab\01.Clock\obj\Debug\net6.0\01.Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\NestedLoops-Lab\01.Clock\obj\Debug\net6.0\01.Clock.AssemblyInfoInputs.cache
+D:\C# PB\NestedLoops-Lab\01.Clock\obj\Debug\net6.0\01.Clock.AssemblyInfo.cs
+D:\C# PB\NestedLoops-Lab\01.Clock\obj\Debug\net6.0\01.Clock.csproj.CoreCompileInputs.cache
+D:\C# PB\NestedLoops-Lab\01.Clock\obj\Debug\net6.0\01.Clock.dll
+D:\C# PB\NestedLoops-Lab\01.Clock\obj\Debug\net6.0\refint\01.Clock.dll
+D:\C# PB\NestedLoops-Lab\01.Clock\obj\Debug\net6.0\01.Clock.pdb
+D:\C# PB\NestedLoops-Lab\01.Clock\obj\Debug\net6.0\01.Clock.genruntimeconfig.cache
+D:\C# PB\NestedLoops-Lab\01.Clock\obj\Debug\net6.0\ref\01.Clock.dll

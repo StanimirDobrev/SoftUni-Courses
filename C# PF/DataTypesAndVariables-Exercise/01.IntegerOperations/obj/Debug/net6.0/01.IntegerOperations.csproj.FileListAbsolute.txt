@@ -1,0 +1,14 @@
+D:\C# PF\DataTypesAndVariables-Exercise\01.IntegerOperations\bin\Debug\net6.0\01.IntegerOperations.exe
+D:\C# PF\DataTypesAndVariables-Exercise\01.IntegerOperations\bin\Debug\net6.0\01.IntegerOperations.deps.json
+D:\C# PF\DataTypesAndVariables-Exercise\01.IntegerOperations\bin\Debug\net6.0\01.IntegerOperations.runtimeconfig.json
+D:\C# PF\DataTypesAndVariables-Exercise\01.IntegerOperations\bin\Debug\net6.0\01.IntegerOperations.dll
+D:\C# PF\DataTypesAndVariables-Exercise\01.IntegerOperations\bin\Debug\net6.0\01.IntegerOperations.pdb
+D:\C# PF\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.AssemblyInfoInputs.cache
+D:\C# PF\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.AssemblyInfo.cs
+D:\C# PF\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.csproj.CoreCompileInputs.cache
+D:\C# PF\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.dll
+D:\C# PF\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\refint\01.IntegerOperations.dll
+D:\C# PF\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.pdb
+D:\C# PF\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.genruntimeconfig.cache
+D:\C# PF\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\ref\01.IntegerOperations.dll

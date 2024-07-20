@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\3.Largest3Numbers\bin\Debug\net6.0\3.Largest3Numbers.exe
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\3.Largest3Numbers\bin\Debug\net6.0\3.Largest3Numbers.deps.json
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\3.Largest3Numbers\bin\Debug\net6.0\3.Largest3Numbers.runtimeconfig.json
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\3.Largest3Numbers\bin\Debug\net6.0\3.Largest3Numbers.dll
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\3.Largest3Numbers\bin\Debug\net6.0\3.Largest3Numbers.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\3.Largest3Numbers\obj\Debug\net6.0\3.Largest3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\3.Largest3Numbers\obj\Debug\net6.0\3.Largest3Numbers.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\3.Largest3Numbers\obj\Debug\net6.0\3.Largest3Numbers.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\3.Largest3Numbers\obj\Debug\net6.0\3.Largest3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\3.Largest3Numbers\obj\Debug\net6.0\3.Largest3Numbers.dll
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\3.Largest3Numbers\obj\Debug\net6.0\refint\3.Largest3Numbers.dll
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\3.Largest3Numbers\obj\Debug\net6.0\3.Largest3Numbers.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\3.Largest3Numbers\obj\Debug\net6.0\3.Largest3Numbers.genruntimeconfig.cache
+C:\Users\PC\source\repos\CSharp-Advanced\1.CountSameValuesInArray\3.Largest3Numbers\obj\Debug\net6.0\ref\3.Largest3Numbers.dll

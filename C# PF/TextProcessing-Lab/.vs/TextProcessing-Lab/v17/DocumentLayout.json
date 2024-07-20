@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\TextProcessing-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC47235-5DF2-4146-9A53-93FADFE5F5E0}|05.Digits,LettersAndOther\\05.Digits,LettersAndOther.csproj|c:\\users\\pc\\source\\repos\\textprocessing-lab\\05.digits,lettersandother\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC47235-5DF2-4146-9A53-93FADFE5F5E0}|05.Digits,LettersAndOther\\05.Digits,LettersAndOther.csproj|solutionrelative:05.digits,lettersandother\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1355E673-5A0C-4492-B7C9-01620EEDA59A}|04.TextFilter\\04.TextFilter.csproj|c:\\users\\pc\\source\\repos\\textprocessing-lab\\04.textfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1355E673-5A0C-4492-B7C9-01620EEDA59A}|04.TextFilter\\04.TextFilter.csproj|solutionrelative:04.textfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13983774-51A7-4C27-A242-5D4224F472AF}|03.Substring\\03.Substring.csproj|c:\\users\\pc\\source\\repos\\textprocessing-lab\\03.substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13983774-51A7-4C27-A242-5D4224F472AF}|03.Substring\\03.Substring.csproj|solutionrelative:03.substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6413836-D617-4F36-86C0-5E9C8A6A7447}|02.RepeatStrings\\02.RepeatStrings.csproj|c:\\users\\pc\\source\\repos\\textprocessing-lab\\02.repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6413836-D617-4F36-86C0-5E9C8A6A7447}|02.RepeatStrings\\02.RepeatStrings.csproj|solutionrelative:02.repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA73B-EE59-4502-87F9-75F1B24D4495}|01.ReverseStrings\\01.ReverseStrings.csproj|c:\\users\\pc\\source\\repos\\textprocessing-lab\\01.reversestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA73B-EE59-4502-87F9-75F1B24D4495}|01.ReverseStrings\\01.ReverseStrings.csproj|solutionrelative:01.reversestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\TextProcessing-Lab\\05.Digits,LettersAndOther\\Program.cs",
+              "RelativeDocumentMoniker": "05.Digits,LettersAndOther\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\TextProcessing-Lab\\05.Digits,LettersAndOther\\Program.cs",
+              "RelativeToolTip": "05.Digits,LettersAndOther\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T20:38:23.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\TextProcessing-Lab\\04.TextFilter\\Program.cs",
+              "RelativeDocumentMoniker": "04.TextFilter\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\TextProcessing-Lab\\04.TextFilter\\Program.cs",
+              "RelativeToolTip": "04.TextFilter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T20:32:42.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\TextProcessing-Lab\\03.Substring\\Program.cs",
+              "RelativeDocumentMoniker": "03.Substring\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\TextProcessing-Lab\\03.Substring\\Program.cs",
+              "RelativeToolTip": "03.Substring\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:52:36.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\TextProcessing-Lab\\02.RepeatStrings\\Program.cs",
+              "RelativeDocumentMoniker": "02.RepeatStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\TextProcessing-Lab\\02.RepeatStrings\\Program.cs",
+              "RelativeToolTip": "02.RepeatStrings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:49:38.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\TextProcessing-Lab\\01.ReverseStrings\\Program.cs",
+              "RelativeDocumentMoniker": "01.ReverseStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\TextProcessing-Lab\\01.ReverseStrings\\Program.cs",
+              "RelativeToolTip": "01.ReverseStrings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:30:06.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\FundamentalsExamPreparation-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21CD66BA-8FA4-402A-9023-F7F8ECB65980}|Problem2\u2013DestinationMapper\\Problem2\u2013DestinationMapper.csproj|c:\\users\\pc\\source\\repos\\fundamentalsexampreparation-1\\problem2\u2013destinationmapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CD66BA-8FA4-402A-9023-F7F8ECB65980}|Problem2\u2013DestinationMapper\\Problem2\u2013DestinationMapper.csproj|solutionrelative:problem2\u2013destinationmapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1037031B-368D-4BCA-A52C-4DD655AA1979}|02.DestinationMapper\\02.DestinationMapper.csproj|c:\\users\\pc\\source\\repos\\fundamentalsexampreparation-1\\02.destinationmapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1037031B-368D-4BCA-A52C-4DD655AA1979}|02.DestinationMapper\\02.DestinationMapper.csproj|solutionrelative:02.destinationmapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC814C63-8D93-4CC2-A372-0220BCA76BAB}|Problem1-Registration\\Problem1-Registration.csproj|c:\\users\\pc\\source\\repos\\fundamentalsexampreparation-1\\problem1-registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC814C63-8D93-4CC2-A372-0220BCA76BAB}|Problem1-Registration\\Problem1-Registration.csproj|solutionrelative:problem1-registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497A6042-B148-43AB-8E60-1918DCFB7F2E}|Problem2\u2013MirrorWords\\Problem2\u2013MirrorWords.csproj|c:\\users\\pc\\source\\repos\\fundamentalsexampreparation-1\\problem2\u2013mirrorwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497A6042-B148-43AB-8E60-1918DCFB7F2E}|Problem2\u2013MirrorWords\\Problem2\u2013MirrorWords.csproj|solutionrelative:problem2\u2013mirrorwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB9B42F-D3C8-410E-AA0D-6AABB28FB104}|Problem1\u2013WorldTour\\Problem1\u2013WorldTour.csproj|c:\\users\\pc\\source\\repos\\fundamentalsexampreparation-1\\problem1\u2013worldtour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB9B42F-D3C8-410E-AA0D-6AABB28FB104}|Problem1\u2013WorldTour\\Problem1\u2013WorldTour.csproj|solutionrelative:problem1\u2013worldtour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101EA18E-8C1E-469D-940E-62CB97AD0EA9}|Problem3\u2013NeedForSpeedIII\\Problem3\u2013NeedForSpeedIII.csproj|c:\\users\\pc\\source\\repos\\fundamentalsexampreparation-1\\problem3\u2013needforspeediii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101EA18E-8C1E-469D-940E-62CB97AD0EA9}|Problem3\u2013NeedForSpeedIII\\Problem3\u2013NeedForSpeedIII.csproj|solutionrelative:problem3\u2013needforspeediii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83CE0C-F091-4FBB-8ECB-647506114C70}|Problem1\u2013TheImitationGame\\Problem1\u2013TheImitationGame.csproj|c:\\users\\pc\\source\\repos\\fundamentalsexampreparation-1\\problem1\u2013theimitationgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A83CE0C-F091-4FBB-8ECB-647506114C70}|Problem1\u2013TheImitationGame\\Problem1\u2013TheImitationGame.csproj|solutionrelative:problem1\u2013theimitationgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FundamentalsExamPreparation-1\\02.DestinationMapper\\Program.cs",
+              "RelativeDocumentMoniker": "02.DestinationMapper\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FundamentalsExamPreparation-1\\02.DestinationMapper\\Program.cs",
+              "RelativeToolTip": "02.DestinationMapper\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:47:19.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FundamentalsExamPreparation-1\\Problem1-Registration\\Program.cs",
+              "RelativeDocumentMoniker": "Problem1-Registration\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FundamentalsExamPreparation-1\\Problem1-Registration\\Program.cs",
+              "RelativeToolTip": "Problem1-Registration\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:25:53.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FundamentalsExamPreparation-1\\Problem2\u2013MirrorWords\\Program.cs",
+              "RelativeDocumentMoniker": "Problem2\u2013MirrorWords\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FundamentalsExamPreparation-1\\Problem2\u2013MirrorWords\\Program.cs",
+              "RelativeToolTip": "Problem2\u2013MirrorWords\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T09:21:49.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FundamentalsExamPreparation-1\\Problem1\u2013WorldTour\\Program.cs",
+              "RelativeDocumentMoniker": "Problem1\u2013WorldTour\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FundamentalsExamPreparation-1\\Problem1\u2013WorldTour\\Program.cs",
+              "RelativeToolTip": "Problem1\u2013WorldTour\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:05:05.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FundamentalsExamPreparation-1\\Problem3\u2013NeedForSpeedIII\\Program.cs",
+              "RelativeDocumentMoniker": "Problem3\u2013NeedForSpeedIII\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FundamentalsExamPreparation-1\\Problem3\u2013NeedForSpeedIII\\Program.cs",
+              "RelativeToolTip": "Problem3\u2013NeedForSpeedIII\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:17:57.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FundamentalsExamPreparation-1\\Problem2\u2013DestinationMapper\\Program.cs",
+              "RelativeDocumentMoniker": "Problem2\u2013DestinationMapper\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FundamentalsExamPreparation-1\\Problem2\u2013DestinationMapper\\Program.cs",
+              "RelativeToolTip": "Problem2\u2013DestinationMapper\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T16:50:06.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FundamentalsExamPreparation-1\\Problem1\u2013TheImitationGame\\Program.cs",
+              "RelativeDocumentMoniker": "Problem1\u2013TheImitationGame\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FundamentalsExamPreparation-1\\Problem1\u2013TheImitationGame\\Program.cs",
+              "RelativeToolTip": "Problem1\u2013TheImitationGame\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T16:13:33.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

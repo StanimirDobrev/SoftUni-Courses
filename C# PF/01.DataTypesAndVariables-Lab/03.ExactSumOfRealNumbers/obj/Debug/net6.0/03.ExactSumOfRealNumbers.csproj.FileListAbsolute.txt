@@ -1,0 +1,14 @@
+D:\C# PF\01.DataTypesAndVariables-Lab\03.ExactSumOfRealNumbers\bin\Debug\net6.0\03.ExactSumOfRealNumbers.exe
+D:\C# PF\01.DataTypesAndVariables-Lab\03.ExactSumOfRealNumbers\bin\Debug\net6.0\03.ExactSumOfRealNumbers.deps.json
+D:\C# PF\01.DataTypesAndVariables-Lab\03.ExactSumOfRealNumbers\bin\Debug\net6.0\03.ExactSumOfRealNumbers.runtimeconfig.json
+D:\C# PF\01.DataTypesAndVariables-Lab\03.ExactSumOfRealNumbers\bin\Debug\net6.0\03.ExactSumOfRealNumbers.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\03.ExactSumOfRealNumbers\bin\Debug\net6.0\03.ExactSumOfRealNumbers.pdb
+D:\C# PF\01.DataTypesAndVariables-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\03.ExactSumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\01.DataTypesAndVariables-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\03.ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\03.ExactSumOfRealNumbers.AssemblyInfo.cs
+D:\C# PF\01.DataTypesAndVariables-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\03.ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\03.ExactSumOfRealNumbers.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\refint\03.ExactSumOfRealNumbers.dll
+D:\C# PF\01.DataTypesAndVariables-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\03.ExactSumOfRealNumbers.pdb
+D:\C# PF\01.DataTypesAndVariables-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\03.ExactSumOfRealNumbers.genruntimeconfig.cache
+D:\C# PF\01.DataTypesAndVariables-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\ref\03.ExactSumOfRealNumbers.dll

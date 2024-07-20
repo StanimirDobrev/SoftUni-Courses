@@ -1,0 +1,14 @@
+D:\C# PB\ForLoop-Excercise\03.Histogram\bin\Debug\net6.0\03.Histogram.exe
+D:\C# PB\ForLoop-Excercise\03.Histogram\bin\Debug\net6.0\03.Histogram.deps.json
+D:\C# PB\ForLoop-Excercise\03.Histogram\bin\Debug\net6.0\03.Histogram.runtimeconfig.json
+D:\C# PB\ForLoop-Excercise\03.Histogram\bin\Debug\net6.0\03.Histogram.dll
+D:\C# PB\ForLoop-Excercise\03.Histogram\bin\Debug\net6.0\03.Histogram.pdb
+D:\C# PB\ForLoop-Excercise\03.Histogram\obj\Debug\net6.0\03.Histogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PB\ForLoop-Excercise\03.Histogram\obj\Debug\net6.0\03.Histogram.AssemblyInfoInputs.cache
+D:\C# PB\ForLoop-Excercise\03.Histogram\obj\Debug\net6.0\03.Histogram.AssemblyInfo.cs
+D:\C# PB\ForLoop-Excercise\03.Histogram\obj\Debug\net6.0\03.Histogram.csproj.CoreCompileInputs.cache
+D:\C# PB\ForLoop-Excercise\03.Histogram\obj\Debug\net6.0\03.Histogram.dll
+D:\C# PB\ForLoop-Excercise\03.Histogram\obj\Debug\net6.0\refint\03.Histogram.dll
+D:\C# PB\ForLoop-Excercise\03.Histogram\obj\Debug\net6.0\03.Histogram.pdb
+D:\C# PB\ForLoop-Excercise\03.Histogram\obj\Debug\net6.0\03.Histogram.genruntimeconfig.cache
+D:\C# PB\ForLoop-Excercise\03.Histogram\obj\Debug\net6.0\ref\03.Histogram.dll

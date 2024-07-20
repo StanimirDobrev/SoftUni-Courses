@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CSharp-Advanced\02.ExerciseStacksAndQueues\3.MaximumАndMinimumElement\bin\Debug\net6.0\3.MaximumАndMinimumElement.exe
+C:\Users\PC\source\repos\CSharp-Advanced\02.ExerciseStacksAndQueues\3.MaximumАndMinimumElement\bin\Debug\net6.0\3.MaximumАndMinimumElement.deps.json
+C:\Users\PC\source\repos\CSharp-Advanced\02.ExerciseStacksAndQueues\3.MaximumАndMinimumElement\bin\Debug\net6.0\3.MaximumАndMinimumElement.runtimeconfig.json
+C:\Users\PC\source\repos\CSharp-Advanced\02.ExerciseStacksAndQueues\3.MaximumАndMinimumElement\bin\Debug\net6.0\3.MaximumАndMinimumElement.dll
+C:\Users\PC\source\repos\CSharp-Advanced\02.ExerciseStacksAndQueues\3.MaximumАndMinimumElement\bin\Debug\net6.0\3.MaximumАndMinimumElement.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\02.ExerciseStacksAndQueues\3.MaximumАndMinimumElement\obj\Debug\net6.0\3.MaximumАndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CSharp-Advanced\02.ExerciseStacksAndQueues\3.MaximumАndMinimumElement\obj\Debug\net6.0\3.MaximumАndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\02.ExerciseStacksAndQueues\3.MaximumАndMinimumElement\obj\Debug\net6.0\3.MaximumАndMinimumElement.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharp-Advanced\02.ExerciseStacksAndQueues\3.MaximumАndMinimumElement\obj\Debug\net6.0\3.MaximumАndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharp-Advanced\02.ExerciseStacksAndQueues\3.MaximumАndMinimumElement\obj\Debug\net6.0\3.MaximumАndMinimumElement.dll
+C:\Users\PC\source\repos\CSharp-Advanced\02.ExerciseStacksAndQueues\3.MaximumАndMinimumElement\obj\Debug\net6.0\refint\3.MaximumАndMinimumElement.dll
+C:\Users\PC\source\repos\CSharp-Advanced\02.ExerciseStacksAndQueues\3.MaximumАndMinimumElement\obj\Debug\net6.0\3.MaximumАndMinimumElement.pdb
+C:\Users\PC\source\repos\CSharp-Advanced\02.ExerciseStacksAndQueues\3.MaximumАndMinimumElement\obj\Debug\net6.0\3.MaximumАndMinimumElement.genruntimeconfig.cache
+C:\Users\PC\source\repos\CSharp-Advanced\02.ExerciseStacksAndQueues\3.MaximumАndMinimumElement\obj\Debug\net6.0\ref\3.MaximumАndMinimumElement.dll

@@ -1,0 +1,14 @@
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.exe
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.deps.json
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.runtimeconfig.json
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.dll
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.pdb
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.AssemblyInfoInputs.cache
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.AssemblyInfo.cs
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.dll
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\refint\10.MultiplicationTable.dll
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.pdb
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.genruntimeconfig.cache
+D:\C# PF\PF-Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\ref\10.MultiplicationTable.dll
