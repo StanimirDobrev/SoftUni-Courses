@@ -1,0 +1,12 @@
+C:\Users\PC\Documents\GitHub\SoftUni-Courses\CSharp-OOP\UnitTesting-Exercise\CarManager\bin\Debug\net6.0\CarManager.deps.json
+C:\Users\PC\Documents\GitHub\SoftUni-Courses\CSharp-OOP\UnitTesting-Exercise\CarManager\bin\Debug\net6.0\CarManager.dll
+C:\Users\PC\Documents\GitHub\SoftUni-Courses\CSharp-OOP\UnitTesting-Exercise\CarManager\bin\Debug\net6.0\CarManager.pdb
+C:\Users\PC\Documents\GitHub\SoftUni-Courses\CSharp-OOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\SoftUni-Courses\CSharp-OOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni-Courses\CSharp-OOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\SoftUni-Courses\CSharp-OOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni-Courses\CSharp-OOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.sourcelink.json
+C:\Users\PC\Documents\GitHub\SoftUni-Courses\CSharp-OOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.dll
+C:\Users\PC\Documents\GitHub\SoftUni-Courses\CSharp-OOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\refint\CarManager.dll
+C:\Users\PC\Documents\GitHub\SoftUni-Courses\CSharp-OOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.pdb
+C:\Users\PC\Documents\GitHub\SoftUni-Courses\CSharp-OOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\ref\CarManager.dll

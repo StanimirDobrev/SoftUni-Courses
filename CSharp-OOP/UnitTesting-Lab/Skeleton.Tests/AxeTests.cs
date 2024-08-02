@@ -6,11 +6,24 @@ namespace Skeleton.Tests
     [TestFixture]
     public class AxeTests
     {
+        private const int InitialAttackPoints = 10;
+        private const int InitialDurabillityPoints = 5;
+
+        private Axe axe;
+        private Dummy dummy;
+
+        [SetUp]
+        public void SetUp()
+        {
+            axe = new(InitialAttackPoints, InitialDurabillityPoints);
+            dummy = new Dummy(100, 100);
+        }
+
+
         [Test]
         public void NewAxeShouldSetDataCorrectly()
         {
             //Arrange
-            Axe axe = new Axe(10, 5);
 
 
             //Act
@@ -27,8 +40,8 @@ namespace Skeleton.Tests
         public void AttackDurabilityPointsNegativeShouldThrowInvalidOperationException(int durabilityPoints)
         {
             //Arrange
-            Axe axe = new Axe(10, durabilityPoints);
-            Dummy dummy = new Dummy(100, 100);
+            axe = new Axe(InitialAttackPoints, durabilityPoints);
+            
             //Act
             InvalidOperationException ex = Assert.Throws<InvalidOperationException> (() => axe.Attack(dummy));
             //Assert
@@ -41,8 +54,8 @@ namespace Skeleton.Tests
         public void TestIfWeaponLosesDurabilityAfterEachAttack(int initialDurabilityPoints, int expectedDurabilityPoints)
         {
             //Arrange
-            Axe axe = new Axe(10, initialDurabilityPoints);
-            Dummy dummy = new Dummy(100, 100);
+            axe = new Axe(InitialAttackPoints, initialDurabilityPoints);
+            
             //Act
             axe.Attack(dummy);
             //Assert

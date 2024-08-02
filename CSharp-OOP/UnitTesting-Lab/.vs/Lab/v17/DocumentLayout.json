@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni-Courses\\CSharp-OOP\\UnitTesting-Lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40243B9A-88AA-48DD-9A11-FA65D6A28497}|Skeleton\\Skeleton.csproj|c:\\users\\pc\\documents\\github\\softuni-courses\\csharp-oop\\unittesting-lab\\skeleton\\dummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40243B9A-88AA-48DD-9A11-FA65D6A28497}|Skeleton\\Skeleton.csproj|solutionrelative:skeleton\\dummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA635815-59B6-43A6-A359-AD093B6A90E1}|Skeleton.Tests\\Skeleton.Tests.csproj|c:\\users\\pc\\documents\\github\\softuni-courses\\csharp-oop\\unittesting-lab\\skeleton.tests\\dummytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA635815-59B6-43A6-A359-AD093B6A90E1}|Skeleton.Tests\\Skeleton.Tests.csproj|solutionrelative:skeleton.tests\\dummytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA635815-59B6-43A6-A359-AD093B6A90E1}|Skeleton.Tests\\Skeleton.Tests.csproj|c:\\users\\pc\\documents\\github\\softuni-courses\\csharp-oop\\unittesting-lab\\skeleton.tests\\axetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA635815-59B6-43A6-A359-AD093B6A90E1}|Skeleton.Tests\\Skeleton.Tests.csproj|solutionrelative:skeleton.tests\\axetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40243B9A-88AA-48DD-9A11-FA65D6A28497}|Skeleton\\Skeleton.csproj|c:\\users\\pc\\documents\\github\\softuni-courses\\csharp-oop\\unittesting-lab\\skeleton\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40243B9A-88AA-48DD-9A11-FA65D6A28497}|Skeleton\\Skeleton.csproj|solutionrelative:skeleton\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40243B9A-88AA-48DD-9A11-FA65D6A28497}|Skeleton\\Skeleton.csproj|c:\\users\\pc\\documents\\github\\softuni-courses\\csharp-oop\\unittesting-lab\\skeleton\\dummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40243B9A-88AA-48DD-9A11-FA65D6A28497}|Skeleton\\Skeleton.csproj|solutionrelative:skeleton\\dummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +34,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "DummyTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni-Courses\\CSharp-OOP\\UnitTesting-Lab\\Skeleton.Tests\\DummyTests.cs",
+              "RelativeDocumentMoniker": "Skeleton.Tests\\DummyTests.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni-Courses\\CSharp-OOP\\UnitTesting-Lab\\Skeleton.Tests\\DummyTests.cs",
+              "RelativeToolTip": "Skeleton.Tests\\DummyTests.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAiwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:16:06.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AxeTests.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni-Courses\\CSharp-OOP\\UnitTesting-Lab\\Skeleton.Tests\\AxeTests.cs",
               "RelativeDocumentMoniker": "Skeleton.Tests\\AxeTests.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni-Courses\\CSharp-OOP\\UnitTesting-Lab\\Skeleton.Tests\\AxeTests.cs",
               "RelativeToolTip": "Skeleton.Tests\\AxeTests.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAuwCcAAAAWAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T15:52:22.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T15:52:22.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Axe.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni-Courses\\CSharp-OOP\\UnitTesting-Lab\\Skeleton\\Axe.cs",
               "RelativeDocumentMoniker": "Skeleton\\Axe.cs",
@@ -51,18 +67,17 @@
               "RelativeToolTip": "Skeleton\\Axe.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAgwBwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T15:50:12.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T15:50:12.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Dummy.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni-Courses\\CSharp-OOP\\UnitTesting-Lab\\Skeleton\\Dummy.cs",
               "RelativeDocumentMoniker": "Skeleton\\Dummy.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni-Courses\\CSharp-OOP\\UnitTesting-Lab\\Skeleton\\Dummy.cs",
               "RelativeToolTip": "Skeleton\\Dummy.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBIAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-20T15:51:11.214Z",
               "EditorCaption": ""

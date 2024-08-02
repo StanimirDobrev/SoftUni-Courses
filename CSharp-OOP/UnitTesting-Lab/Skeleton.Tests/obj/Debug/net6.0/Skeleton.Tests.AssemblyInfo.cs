@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Skeleton.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7085ac9959ae248e178ac20435d940eea262313")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43c07c5ab77affcd489ab5a4edede2e41db7889c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Skeleton.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Skeleton.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
