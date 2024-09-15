@@ -1,0 +1,40 @@
+YokoYong has joined the team. Welcome!
+DaniDavis has joined the team. Welcome!
+DaniDavis has already joined the team.
+PeterSully has joined the team. Welcome!
+ValGendor has joined the team. Welcome!
+No content member is able to create the Inheritance resource.
+KrissThompson has joined the team. Welcome!
+TrainingMember is not a valid member type.
+Position is occupied.
+The LabDocument resource is being created.
+The JavaScriptOOP-Retake resource is being created.
+The TicTacToe resource is being created.
+The JavaScriptOOP-Regular resource is being created.
+The JavaScriptOOP-Regular resource is being created.
+The JavaOOP-Regular resource is being created.
+The WelcomeVideo resource is being created.
+The JavaOOP-Retake resource is being created.
+The Regex-Exercise resource is being created.
+The Inheritance resource is being created.
+The C#OOP-Regular resource is being created.
+Provide the correct member name.
+ValGendor has no resources for testing.
+ValGendor has no resources for testing.
+ValGendor has no resources for testing.
+Provide the correct member name.
+PeterSully has no resources for testing.
+PeterSully has no resources for testing.
+KrissThompson has no resources for testing.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Finished Tasks:
+Team Report:--YokoYong (TeamLead) – Currently working on 0 tasks.
+DaniDavis - JavaScript path. Currently working on 0 tasks.
+PeterSully - Java path. Currently working on 0 tasks.
+ValGendor - Python path. Currently working on 0 tasks.
+KrissThompson - CSharp path. Currently working on 0 tasks.
